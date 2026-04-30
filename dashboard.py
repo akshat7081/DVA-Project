@@ -29,18 +29,6 @@ from matplotlib.figure import Figure
 from matplotlib.gridspec import GridSpec
 import os
 import sys
-import logging
-from datetime import datetime
-# ==============================================================================
-# LOGGING CONFIGURATION
-# ==============================================================================
-# We set up logging to ensure that all events within the dashboard are tracked.
-# This helps in debugging data loading issues and tracking UI interactions.
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger('SMDashboard')
 # ==============================================================================
 # CONSTANTS AND THEME CONFIGURATION
 # ==============================================================================
@@ -137,6 +125,7 @@ def load_data():
     """
     try:
         if not os.path.exists(FILE_PATH):
+            print(f"Warning: {FILE_PATH} not found.")
         df = pd.read_csv(FILE_PATH)
         # Normalize column names by stripping whitespace and converting to lowercase
         df.columns = [c.strip().lower() for c in df.columns]
@@ -144,6 +133,7 @@ def load_data():
         validate_dataset(df)
         return df
     except Exception as e:
+        print(f"Error loading data: {e}")
         # Return an empty dataframe with expected columns as fallback to prevent UI crashes
         return pd.DataFrame(columns=[
             'platform', 'category', 'hashtag', 'views', 
@@ -386,6 +376,8 @@ def scrollable_table(parent, hdrs, cwidths, rows_data, row_colors_fn):
 # ==============================================================================
 # DASHBOARD PAGES IMPLEMENTATION
 # ==============================================================================
+
+def page1(nb, df):
     """
     Builds the Overview Page (Page 1)
     
@@ -974,7 +966,8 @@ def main():
         try:
             root.attributes('-zoomed', True) # Works on some Linux environments
         except Exception as e:
-        
+            pass  # Window will open in default size if maximize fails
+    
     # Load dataset
     df = load_data()
     
