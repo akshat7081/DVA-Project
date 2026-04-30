@@ -222,15 +222,10 @@ def build_docx():
     add_para(doc, "Program Code", "Times New Roman", 12, True, space_after=Pt(8), space_before=Pt(4))
     
     with open("dashboard.py", "r", encoding="utf-8") as f:
-        code_lines = f.read().split("\n")
+        code_text = f.read()
     
-    # Add code in chunks — Daksh had ~30 lines per page
-    chunk_size = 16
-    for i in range(0, len(code_lines), chunk_size):
-        chunk = "\n".join(code_lines[i:i+chunk_size])
-        add_code_block(doc, chunk, "Courier New", 8)
-        if i + chunk_size < len(code_lines):
-            doc.add_page_break()
+    # Add code block with natural Word pagination
+    add_code_block(doc, code_text, "Courier New", 8)
     
     doc.add_page_break()
     
