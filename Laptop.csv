@@ -1,0 +1,1301 @@
+Company,TypeName,Inches,Ram,Weight,Price,Cpu,Memory,Gpu,OpSys
+Toshiba,Gaming,17.3,8.0,1.49,190426,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Asus,Workstation,11.6,8.0,3.7,106288,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,macOS
+Apple,Netbook,12.5,8.0,2.27,224534,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Acer,Gaming,15.6,16.0,3.45,134020,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+Toshiba,Netbook,11.6,8.0,1.93,114301,AMD A9,1TB HDD,AMD Radeon R5,Linux
+Razer,Workstation,11.6,4.0,1.21,29390,Intel Pentium,256GB SSD,AMD Radeon R5,Windows 10 S
+HP,Notebook,13.3,64.0,4.67,233547,Intel Core i3,256GB SSD,Intel UHD Graphics 620,Windows 10
+Toshiba,Ultrabook,15.6,32.0,1.49,42307,AMD E-Series,512GB SSD,,Windows 10 S
+Apple,Gaming,12.5,16.0,4.66,242436,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Acer,Ultrabook,15.6,64.0,4.61,240121,AMD E-Series,2TB HDD,Intel HD Graphics 620,Chrome OS
+Asus,Workstation,11.6,16.0,3.92,39502,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Apple,Gaming,12.5,64.0,3.41,241671,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Apple,Netbook,17.3,4.0,3.1,37486,Intel Pentium,512GB SSD,Intel UHD Graphics 620,Chrome OS
+HP,2 in 1 Convertible,13.3,8.0,4.19,126813,Intel Pentium,1TB HDD,Intel HD Graphics 620,Linux
+MSI,Ultrabook,11.6,8.0,2.0,184330,Intel Core i5,512GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Acer,Gaming,14.0,8.0,2.68,203788,Intel Core i9,1TB HDD,Intel HD Graphics 620,Windows 10
+Lenovo,Ultrabook,14.0,4.0,3.25,243300,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,No OS
+Apple,Gaming,13.3,16.0,2.46,118920,Intel Core i5,256GB SSD,Intel UHD Graphics 620,macOS
+MSI,Notebook,17.3,16.0,2.52,227566,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Lenovo,Netbook,11.6,16.0,2.16,246624,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Acer,Ultrabook,15.6,4.0,3.04,97768,Intel Pentium,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Dell,2 in 1 Convertible,13.3,16.0,4.13,156820,Intel Core i5,1TB HDD,Intel UHD Graphics 620,No OS
+Razer,2 in 1 Convertible,17.3,16.0,1.67,77785,Intel Core i3,512GB SSD,Intel UHD Graphics 620,No OS
+MSI,Workstation,15.6,8.0,4.45,91050,Intel Core i3,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Samsung,Gaming,14.0,16.0,3.52,37738,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1060,macOS
+Dell,Ultrabook,14.0,8.0,4.03,89231,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Razer,Workstation,15.6,8.0,,88606,AMD E-Series,256GB SSD,AMD Radeon R5,Windows 10 S
+HP,Ultrabook,13.3,32.0,3.86,239373,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Toshiba,Gaming,14.0,8.0,0.96,56662,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Asus,2 in 1 Convertible,11.6,8.0,4.01,133313,Intel Core i5,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Samsung,Notebook,12.5,32.0,1.05,242369,AMD A9,512GB SSD,Intel UHD Graphics 620,macOS
+HP,2 in 1 Convertible,15.6,16.0,4.28,228306,Intel Core i7,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Acer,Workstation,15.6,4.0,4.67,30123,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+HP,Netbook,14.0,4.0,2.02,246752,AMD E-Series,256GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+Toshiba,Notebook,13.3,4.0,1.7,171688,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Acer,Workstation,11.6,16.0,3.81,248754,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Samsung,Gaming,13.3,8.0,1.86,26182,Intel Core i7,512GB SSD,AMD Radeon R5,macOS
+Toshiba,Notebook,17.3,4.0,4.19,105369,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Lenovo,Workstation,17.3,64.0,1.29,244950,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Asus,Gaming,12.5,16.0,1.38,208085,Intel Pentium,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Samsung,2 in 1 Convertible,14.0,8.0,4.62,177403,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Lenovo,Netbook,14.0,16.0,3.46,192170,Intel Core i5,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Razer,Gaming,14.0,16.0,4.12,41128,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Samsung,Ultrabook,12.5,4.0,2.13,46556,Intel Core i3,512GB SSD,Intel HD Graphics 620,Windows 10 S
+Razer,Gaming,17.3,8.0,3.47,233577,Intel Core i7,1TB HDD,AMD Radeon R5,Windows 10
+Acer,Gaming,13.3,16.0,3.16,167948,Intel Pentium,512GB SSD,Intel HD Graphics 620,macOS
+Lenovo,Netbook,12.5,8.0,3.19,155021,AMD A9,2TB HDD,Intel UHD Graphics 620,No OS
+Asus,Ultrabook,12.5,16.0,3.49,66962,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,No OS
+Toshiba,Workstation,13.3,8.0,3.09,105054,Intel Core i5,2TB HDD,AMD Radeon R5,Windows 10
+Apple,Workstation,14.0,4.0,2.53,217278,AMD E-Series,512GB SSD,Intel HD Graphics 620,Windows 10
+HP,Gaming,11.6,8.0,1.95,39099,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Dell,Ultrabook,13.3,8.0,3.82,158788,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Asus,Ultrabook,17.3,8.0,1.76,198683,AMD A9,512GB SSD,AMD Radeon R5,Chrome OS
+Lenovo,Netbook,15.6,4.0,3.53,184957,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,2 in 1 Convertible,15.6,16.0,1.79,68144,Intel Core i5,256GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Asus,Workstation,12.5,64.0,3.28,211292,Intel Pentium,256GB SSD,Intel HD Graphics 620,No OS
+Lenovo,Netbook,15.6,16.0,3.74,22837,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+MSI,Notebook,11.6,32.0,1.73,195427,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,Linux
+MSI,Workstation,14.0,8.0,1.13,193371,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Razer,Netbook,17.3,64.0,1.4,165231,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Asus,Workstation,11.6,8.0,3.2,140212,Intel Core i5,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+MSI,2 in 1 Convertible,17.3,64.0,4.13,131680,AMD A9,512GB SSD,,Windows 10 S
+Lenovo,Notebook,17.3,64.0,1.07,121802,AMD E-Series,2TB HDD,AMD Radeon R5,macOS
+Razer,2 in 1 Convertible,14.0,16.0,3.69,117413,AMD E-Series,512GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Lenovo,Notebook,12.5,,2.2,66012,Intel Pentium,512GB SSD,Intel HD Graphics 620,Chrome OS
+Razer,Gaming,15.6,16.0,2.72,145193,Intel Core i3,1TB HDD,Intel UHD Graphics 620,Linux
+Asus,Netbook,14.0,8.0,4.43,205377,AMD A9,2TB HDD,Intel UHD Graphics 620,macOS
+Apple,Notebook,11.6,8.0,2.16,233168,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1060,Linux
+Toshiba,2 in 1 Convertible,12.5,16.0,2.67,163178,Intel Core i9,1TB HDD,AMD Radeon R5,Windows 10
+Samsung,Workstation,11.6,4.0,0.95,73123,Intel Core i5,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Apple,Notebook,12.5,16.0,1.21,126825,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Netbook,11.6,64.0,1.88,23720,Intel Core i5,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Lenovo,Notebook,14.0,8.0,1.01,183733,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Ultrabook,12.5,16.0,,239970,Intel Pentium,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Apple,Workstation,12.5,32.0,2.52,239866,AMD E-Series,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Razer,Netbook,17.3,32.0,2.98,233390,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Windows 10
+Samsung,Netbook,17.3,64.0,1.56,167192,Intel Core i9,512GB SSD,AMD Radeon R5,Chrome OS
+Samsung,Gaming,13.3,16.0,2.02,165862,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1050,macOS
+Dell,2 in 1 Convertible,11.6,64.0,3.42,73655,AMD E-Series,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Samsung,Gaming,17.3,16.0,4.57,205715,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Toshiba,Netbook,13.3,8.0,1.09,108448,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1050,No OS
+Samsung,Workstation,17.3,8.0,4.28,193446,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Apple,Notebook,11.6,16.0,3.09,188979,Intel Core i7,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+Dell,Notebook,12.5,8.0,3.04,196143,Intel Pentium,1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Apple,Workstation,15.6,16.0,2.8,135507,Intel Core i9,512GB SSD,Intel UHD Graphics 620,Linux
+Apple,Netbook,11.6,16.0,1.16,49812,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+HP,Notebook,14.0,8.0,1.24,64570,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Dell,Notebook,17.3,16.0,3.18,65901,Intel Core i7,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Apple,Notebook,17.3,16.0,2.2,75186,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1060,macOS
+HP,2 in 1 Convertible,12.5,8.0,4.39,137066,Intel Core i3,2TB HDD,Intel HD Graphics 620,Windows 10 S
+HP,2 in 1 Convertible,14.0,4.0,2.45,143364,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Dell,Ultrabook,12.5,4.0,1.44,196323,AMD E-Series,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Acer,Gaming,14.0,8.0,3.62,211243,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Razer,Workstation,15.6,32.0,2.01,51160,Intel Core i5,1TB HDD,Intel HD Graphics 620,macOS
+Toshiba,Workstation,17.3,8.0,2.9,34156,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Razer,Workstation,17.3,16.0,3.55,91208,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Samsung,Ultrabook,15.6,8.0,4.32,226052,Intel Core i7,256GB SSD,AMD Radeon R5,No OS
+Toshiba,2 in 1 Convertible,13.3,8.0,3.91,218392,AMD E-Series,2TB HDD,AMD Radeon R5,Windows 10 S
+Samsung,Netbook,12.5,16.0,3.47,164001,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Apple,Netbook,15.6,16.0,3.48,212678,Intel Pentium,1TB HDD,Intel HD Graphics 620,Windows 10
+Lenovo,Ultrabook,12.5,4.0,4.49,234514,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,Linux
+Dell,Netbook,11.6,8.0,2.02,246226,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Toshiba,Workstation,17.3,4.0,0.9,208631,Intel Core i3,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Toshiba,Gaming,12.5,8.0,1.93,200277,AMD A9,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Apple,Notebook,14.0,16.0,1.73,214547,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,Linux
+Acer,2 in 1 Convertible,12.5,4.0,3.41,210413,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,No OS
+HP,2 in 1 Convertible,11.6,8.0,3.31,110377,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Apple,Ultrabook,17.3,8.0,3.16,57863,AMD E-Series,512GB SSD,AMD Radeon R5,macOS
+MSI,2 in 1 Convertible,15.6,32.0,0.96,227909,Intel Core i7,512GB SSD,AMD Radeon R5,Chrome OS
+HP,Workstation,11.6,64.0,3.67,80439,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Linux
+Dell,Netbook,17.3,4.0,2.13,153266,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+HP,Workstation,12.5,16.0,3.43,217459,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Acer,Ultrabook,13.3,8.0,3.01,136361,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+HP,Workstation,13.3,,2.2,227986,Intel Pentium,512GB SSD,Intel HD Graphics 620,Windows 10 S
+Dell,Netbook,14.0,16.0,1.41,212286,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1050,Linux
+Acer,Gaming,17.3,32.0,1.26,111176,Intel Pentium,256GB SSD,Intel HD Graphics 620,Chrome OS
+Razer,Ultrabook,13.3,64.0,4.06,245364,Intel Core i3,256GB SSD +  1TB HDD,AMD Radeon R5,Linux
+Toshiba,Gaming,15.6,16.0,4.39,44777,Intel Pentium,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Toshiba,Notebook,17.3,8.0,3.37,172255,AMD E-Series,1TB HDD,Intel UHD Graphics 620,Linux
+Samsung,Gaming,15.6,16.0,1.29,173517,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,macOS
+Razer,Notebook,15.6,8.0,2.43,213110,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Razer,Notebook,13.3,16.0,3.67,102201,Intel Core i3,512GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+HP,Gaming,17.3,8.0,3.86,162270,Intel Core i9,2TB HDD,AMD Radeon R5,No OS
+Toshiba,Ultrabook,12.5,16.0,1.35,167483,Intel Core i3,512GB SSD,Intel HD Graphics 620,Windows 10
+Dell,Netbook,11.6,8.0,0.9,196649,Intel Core i9,1TB HDD,AMD Radeon R5,No OS
+Asus,Workstation,13.3,8.0,3.61,30867,Intel Core i5,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Asus,Workstation,13.3,32.0,2.26,77501,Intel Core i9,512GB SSD,AMD Radeon R5,Linux
+Acer,Netbook,12.5,4.0,1.87,160338,AMD A9,2TB HDD,Intel HD Graphics 620,No OS
+Toshiba,Notebook,17.3,16.0,0.95,54422,Intel Pentium,2TB HDD,AMD Radeon R5,macOS
+Toshiba,Notebook,17.3,8.0,2.95,181280,Intel Core i9,512GB SSD,Intel HD Graphics 620,Linux
+Asus,Ultrabook,15.6,4.0,4.13,136544,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Toshiba,2 in 1 Convertible,12.5,4.0,4.54,177285,AMD A9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+HP,Gaming,12.5,,3.05,153439,Intel Core i9,256GB SSD,Intel HD Graphics 620,Windows 10
+MSI,Notebook,17.3,32.0,2.85,225098,Intel Core i9,256GB SSD,Intel UHD Graphics 620,No OS
+Lenovo,Workstation,15.6,8.0,1.22,50362,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,No OS
+Razer,Ultrabook,13.3,64.0,2.99,66588,AMD E-Series,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Samsung,Gaming,14.0,16.0,2.34,184357,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Acer,Ultrabook,11.6,8.0,3.21,141683,Intel Core i9,1TB HDD,Intel UHD Graphics 620,Windows 10 S
+MSI,Gaming,13.3,16.0,2.38,220827,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Asus,Gaming,17.3,16.0,1.81,217918,Intel Core i7,512GB SSD,AMD Radeon R5,Windows 10 S
+Razer,Netbook,11.6,16.0,1.26,51307,Intel Core i3,1TB HDD,Intel UHD Graphics 620,macOS
+Toshiba,Notebook,14.0,8.0,2.1,241239,Intel Core i7,2TB HDD,Intel HD Graphics 620,Linux
+Samsung,Ultrabook,14.0,8.0,1.27,95280,AMD A9,2TB HDD,Intel HD Graphics 620,No OS
+Toshiba,Ultrabook,15.6,32.0,1.57,165939,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Dell,Netbook,11.6,32.0,4.65,71523,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Dell,Workstation,15.6,,2.59,230233,Intel Core i9,256GB SSD,Intel HD Graphics 620,Chrome OS
+Samsung,Workstation,13.3,8.0,2.92,152450,AMD A9,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Samsung,Notebook,12.5,16.0,4.22,230757,AMD A9,512GB SSD,Intel UHD Graphics 620,Chrome OS
+Asus,Notebook,12.5,8.0,4.68,122669,Intel Pentium,1TB HDD,Intel HD Graphics 620,No OS
+Samsung,2 in 1 Convertible,12.5,8.0,3.11,223030,Intel Core i7,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+HP,Netbook,11.6,8.0,3.99,173998,Intel Pentium,256GB SSD,Intel UHD Graphics 620,Windows 10
+Toshiba,Workstation,12.5,16.0,2.14,118215,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+MSI,Gaming,13.3,8.0,2.06,113707,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Apple,Ultrabook,15.6,8.0,2.43,159252,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1050,No OS
+Samsung,Notebook,11.6,32.0,3.46,107837,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Acer,Ultrabook,15.6,8.0,3.49,133070,Intel Core i3,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+Dell,Ultrabook,11.6,4.0,2.1,183003,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,No OS
+HP,2 in 1 Convertible,15.6,4.0,1.41,170086,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Razer,Workstation,14.0,,3.3,242544,Intel Core i3,2TB HDD,Intel UHD Graphics 620,macOS
+Apple,Notebook,15.6,16.0,1.39,94872,AMD E-Series,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+MSI,Ultrabook,12.5,8.0,3.1,204574,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1050,Windows 10
+Apple,Notebook,14.0,16.0,3.54,102736,AMD E-Series,512GB SSD,AMD Radeon R5,No OS
+Samsung,Gaming,15.6,16.0,3.56,20470,Intel Core i7,512GB SSD,,No OS
+Asus,2 in 1 Convertible,11.6,8.0,3.76,242467,Intel Core i9,2TB HDD,AMD Radeon R5,Windows 10 S
+Dell,Gaming,11.6,16.0,4.22,161025,Intel Pentium,256GB SSD,AMD Radeon R5,macOS
+Dell,Notebook,11.6,16.0,2.8,184579,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Razer,Notebook,17.3,16.0,3.67,107969,Intel Pentium,1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Asus,Workstation,13.3,8.0,3.25,106493,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Toshiba,Ultrabook,11.6,32.0,1.61,21523,Intel Core i7,1TB HDD,Intel UHD Graphics 620,macOS
+Lenovo,Ultrabook,14.0,16.0,1.0,232995,Intel Core i3,1TB HDD,Intel HD Graphics 620,Chrome OS
+HP,Gaming,11.6,8.0,,203262,Intel Core i5,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Dell,2 in 1 Convertible,17.3,8.0,2.58,193833,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Netbook,12.5,4.0,3.25,46169,Intel Core i3,256GB SSD,Intel UHD Graphics 620,Linux
+Dell,Ultrabook,14.0,4.0,4.13,60641,Intel Core i9,256GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Apple,Workstation,17.3,16.0,1.65,169062,AMD A9,256GB SSD,Intel HD Graphics 620,macOS
+Dell,Gaming,12.5,4.0,1.38,44661,AMD A9,2TB HDD,AMD Radeon R5,Linux
+Dell,Gaming,14.0,8.0,4.56,159491,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Lenovo,Netbook,15.6,16.0,1.31,29457,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Lenovo,Workstation,13.3,4.0,2.72,82600,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1060,macOS
+MSI,2 in 1 Convertible,13.3,64.0,3.13,118619,Intel Pentium,2TB HDD,AMD Radeon R5,Chrome OS
+Toshiba,Workstation,17.3,8.0,2.96,91102,AMD A9,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Acer,2 in 1 Convertible,12.5,8.0,1.23,48085,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Dell,Workstation,13.3,8.0,1.12,112064,Intel Core i9,512GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Dell,Workstation,12.5,8.0,1.3,196726,Intel Core i5,1TB HDD,Intel HD Graphics 620,Windows 10 S
+HP,Notebook,12.5,4.0,3.13,152202,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Lenovo,Gaming,17.3,16.0,,120723,Intel Core i7,1TB HDD,Intel HD Graphics 620,macOS
+Acer,Workstation,17.3,64.0,1.79,148114,Intel Core i3,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Razer,Netbook,17.3,8.0,3.32,85134,Intel Core i9,2TB HDD,Intel HD Graphics 620,macOS
+MSI,Workstation,13.3,16.0,4.02,57982,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Toshiba,Ultrabook,17.3,16.0,1.06,244494,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Asus,Gaming,13.3,16.0,2.79,80185,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Toshiba,Ultrabook,17.3,8.0,3.52,48477,AMD A9,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Apple,Gaming,11.6,8.0,1.86,129161,AMD A9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Dell,Ultrabook,12.5,8.0,2.07,67709,AMD A9,2TB HDD,AMD Radeon R5,Windows 10 S
+MSI,Workstation,17.3,16.0,3.23,174788,Intel Core i7,2TB HDD,AMD Radeon R5,No OS
+Apple,Workstation,14.0,16.0,4.31,93137,Intel Core i9,256GB SSD +  1TB HDD,,Windows 10 S
+Acer,Notebook,12.5,8.0,3.98,51018,AMD E-Series,1TB HDD,AMD Radeon R5,macOS
+Asus,Netbook,12.5,8.0,3.12,154133,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Lenovo,Ultrabook,17.3,32.0,3.67,154681,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+MSI,2 in 1 Convertible,15.6,16.0,2.29,50371,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+MSI,Notebook,17.3,64.0,3.34,98021,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Dell,Ultrabook,12.5,16.0,2.67,166877,Intel Core i5,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Samsung,Ultrabook,14.0,8.0,1.62,22857,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,Notebook,12.5,16.0,3.57,157692,Intel Core i3,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+HP,Workstation,14.0,16.0,3.01,23177,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Asus,Ultrabook,13.3,4.0,2.26,176183,AMD E-Series,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Asus,Workstation,11.6,16.0,4.36,103578,AMD E-Series,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+HP,Notebook,12.5,16.0,0.98,230253,Intel Core i7,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Razer,Workstation,17.3,8.0,2.1,104941,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,No OS
+HP,Gaming,13.3,16.0,1.12,26826,Intel Core i5,512GB SSD +  1TB HDD,AMD Radeon R5,No OS
+HP,2 in 1 Convertible,11.6,16.0,3.81,159962,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Asus,Ultrabook,17.3,64.0,3.57,97428,Intel Core i5,2TB HDD,Intel HD Graphics 620,Windows 10
+Toshiba,Netbook,15.6,4.0,,141044,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Windows 10
+Asus,2 in 1 Convertible,17.3,8.0,3.47,204103,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Samsung,Workstation,14.0,16.0,2.4,90020,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Dell,Ultrabook,14.0,8.0,3.77,20495,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Apple,Workstation,15.6,16.0,2.63,43481,Intel Pentium,1TB HDD,Intel HD Graphics 620,Windows 10 S
+Toshiba,Gaming,13.3,16.0,2.47,157339,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Lenovo,Notebook,11.6,4.0,4.45,132897,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Apple,Ultrabook,17.3,16.0,1.85,152815,Intel Core i3,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Dell,Gaming,14.0,16.0,1.36,200872,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Samsung,Gaming,13.3,8.0,3.12,118475,AMD A9,512GB SSD,AMD Radeon R5,No OS
+Samsung,Ultrabook,15.6,32.0,4.58,194845,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Lenovo,Workstation,12.5,16.0,2.34,72042,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Toshiba,Netbook,14.0,16.0,1.14,64476,Intel Core i7,512GB SSD,Intel UHD Graphics 620,Linux
+Razer,Gaming,15.6,16.0,2.19,238177,Intel Core i7,512GB SSD,AMD Radeon R5,Chrome OS
+HP,2 in 1 Convertible,17.3,8.0,2.82,43552,Intel Core i9,2TB HDD,Intel HD Graphics 620,Chrome OS
+Toshiba,Gaming,11.6,32.0,1.52,211314,Intel Core i9,2TB HDD,AMD Radeon R5,No OS
+Razer,Netbook,14.0,16.0,3.4,191844,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Samsung,Workstation,14.0,16.0,4.69,189802,Intel Core i5,512GB SSD,AMD Radeon R5,Chrome OS
+Asus,Workstation,17.3,32.0,2.62,175020,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,Linux
+Dell,2 in 1 Convertible,12.5,8.0,2.25,222383,Intel Pentium,256GB SSD,AMD Radeon R5,Windows 10 S
+Lenovo,Gaming,13.3,16.0,2.42,84093,AMD A9,2TB HDD,Intel UHD Graphics 620,Linux
+Dell,Workstation,11.6,8.0,1.34,84123,Intel Pentium,512GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Acer,Netbook,14.0,8.0,4.26,31535,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Acer,Ultrabook,11.6,8.0,2.48,81490,Intel Pentium,256GB SSD,Intel UHD Graphics 620,macOS
+Toshiba,Notebook,14.0,64.0,,61562,Intel Core i5,256GB SSD,Intel HD Graphics 620,Chrome OS
+Samsung,Notebook,11.6,32.0,3.41,134042,Intel Pentium,2TB HDD,Intel HD Graphics 620,Chrome OS
+Samsung,Notebook,15.6,16.0,2.58,104080,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+HP,Gaming,14.0,16.0,3.36,204607,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS
+HP,2 in 1 Convertible,11.6,16.0,1.13,245063,Intel Pentium,2TB HDD,Intel UHD Graphics 620,Chrome OS
+HP,Workstation,13.3,32.0,3.99,56269,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Asus,Ultrabook,15.6,8.0,4.47,95674,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Apple,Netbook,15.6,8.0,3.37,57462,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+MSI,Ultrabook,13.3,8.0,4.53,149199,Intel Pentium,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Apple,Netbook,11.6,16.0,1.48,38147,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Dell,Gaming,17.3,16.0,2.71,191600,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Apple,Notebook,13.3,8.0,3.19,92095,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Asus,Gaming,11.6,4.0,3.11,215003,Intel Core i3,256GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Dell,2 in 1 Convertible,13.3,16.0,2.43,105925,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Apple,2 in 1 Convertible,13.3,4.0,2.18,81381,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1050,macOS
+Asus,Netbook,14.0,16.0,1.38,114468,Intel Core i5,1TB HDD,Intel HD Graphics 620,Windows 10 S
+MSI,Workstation,11.6,64.0,2.39,78749,Intel Core i7,512GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Apple,Workstation,17.3,8.0,1.52,184744,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Asus,Netbook,14.0,8.0,3.69,28731,AMD A9,2TB HDD,Nvidia GeForce GTX 1060,Linux
+HP,2 in 1 Convertible,13.3,16.0,1.69,139647,Intel Core i5,1TB HDD,Intel UHD Graphics 620,macOS
+Samsung,2 in 1 Convertible,12.5,16.0,1.12,200584,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,macOS
+HP,2 in 1 Convertible,13.3,16.0,3.0,244730,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,No OS
+Samsung,Gaming,13.3,64.0,3.16,66024,AMD A9,2TB HDD,Intel UHD Graphics 620,Windows 10
+Lenovo,2 in 1 Convertible,11.6,4.0,4.21,131712,Intel Core i9,256GB SSD,Intel HD Graphics 620,Chrome OS
+Lenovo,Ultrabook,11.6,16.0,3.09,116121,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1060,macOS
+Lenovo,Notebook,14.0,16.0,2.21,18832,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,2 in 1 Convertible,17.3,32.0,3.95,47332,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+HP,Netbook,14.0,8.0,2.95,27467,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1050,No OS
+Samsung,Notebook,15.6,16.0,1.2,56025,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Asus,Gaming,13.3,16.0,3.05,159179,Intel Core i7,2TB HDD,AMD Radeon R5,Windows 10
+Dell,Netbook,12.5,8.0,4.35,92994,Intel Core i3,2TB HDD,Intel HD Graphics 620,Windows 10
+Asus,Notebook,13.3,4.0,2.41,109202,AMD A9,2TB HDD,AMD Radeon R5,Windows 10 S
+Dell,Netbook,13.3,32.0,2.03,58481,AMD E-Series,256GB SSD,AMD Radeon R5,No OS
+Acer,Gaming,14.0,8.0,1.45,148653,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS
+Asus,Ultrabook,12.5,8.0,1.48,90118,AMD A9,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Apple,Gaming,12.5,8.0,2.54,139010,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Apple,Gaming,12.5,32.0,3.16,197710,Intel Core i7,512GB SSD,AMD Radeon R5,Windows 10 S
+Toshiba,Netbook,14.0,16.0,1.21,138714,Intel Pentium,2TB HDD,Intel HD Graphics 620,No OS
+HP,Workstation,13.3,16.0,4.47,154490,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Dell,2 in 1 Convertible,14.0,8.0,3.77,239699,AMD A9,2TB HDD,Nvidia GeForce GTX 1060,No OS
+Dell,2 in 1 Convertible,11.6,16.0,3.13,175185,Intel Core i7,256GB SSD,Intel HD Graphics 620,Linux
+HP,Ultrabook,11.6,16.0,4.05,99363,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1060,macOS
+MSI,Ultrabook,14.0,16.0,1.2,138607,AMD E-Series,256GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+Toshiba,2 in 1 Convertible,12.5,32.0,2.71,78044,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1050,No OS
+MSI,Workstation,13.3,4.0,3.29,226027,AMD A9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+MSI,2 in 1 Convertible,14.0,16.0,4.05,207102,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+MSI,Workstation,14.0,4.0,3.88,26814,AMD A9,256GB SSD,AMD Radeon R5,No OS
+HP,Ultrabook,14.0,16.0,1.95,114340,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,Linux
+MSI,Notebook,15.6,8.0,4.48,25024,Intel Core i5,2TB HDD,Intel HD Graphics 620,No OS
+Apple,Netbook,11.6,8.0,1.37,209360,Intel Core i5,256GB SSD,AMD Radeon R5,Chrome OS
+Lenovo,Ultrabook,12.5,8.0,4.23,124236,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Acer,Ultrabook,17.3,16.0,4.59,72836,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Dell,Gaming,12.5,8.0,1.57,22435,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Dell,Gaming,17.3,16.0,3.64,213156,Intel Core i9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Acer,Gaming,15.6,8.0,1.05,85601,Intel Core i9,256GB SSD,AMD Radeon R5,macOS
+HP,Netbook,14.0,4.0,2.44,234488,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Asus,Gaming,15.6,16.0,2.86,135871,Intel Core i5,2TB HDD,Intel UHD Graphics 620,Chrome OS
+HP,Workstation,15.6,8.0,3.11,149479,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Dell,2 in 1 Convertible,13.3,8.0,4.46,113943,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,macOS
+Dell,Notebook,11.6,16.0,3.45,47940,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Acer,Ultrabook,17.3,8.0,2.73,20666,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+MSI,Workstation,14.0,4.0,3.98,52122,AMD A9,512GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+HP,Notebook,17.3,8.0,4.51,133647,Intel Core i9,256GB SSD,Intel HD Graphics 620,Linux
+Samsung,Workstation,12.5,32.0,0.98,171164,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1060,Linux
+Acer,Workstation,17.3,16.0,4.63,144753,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Apple,Ultrabook,12.5,16.0,1.23,138402,AMD A9,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Dell,2 in 1 Convertible,11.6,16.0,3.99,221717,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Acer,Gaming,12.5,8.0,1.97,116190,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,No OS
+HP,Netbook,17.3,8.0,1.4,115468,AMD E-Series,2TB HDD,AMD Radeon R5,Windows 10
+Dell,2 in 1 Convertible,17.3,16.0,2.57,144207,Intel Core i7,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Asus,Netbook,12.5,4.0,3.35,41505,Intel Pentium,2TB HDD,Intel HD Graphics 620,macOS
+Acer,Ultrabook,15.6,8.0,2.35,51713,AMD A9,2TB HDD,AMD Radeon R5,Windows 10
+Toshiba,Ultrabook,11.6,8.0,1.11,200459,Intel Core i7,2TB HDD,Intel UHD Graphics 620,Windows 10
+Dell,Ultrabook,13.3,8.0,3.18,58169,Intel Core i7,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+HP,Notebook,14.0,64.0,4.33,219354,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Lenovo,Netbook,17.3,4.0,2.36,92511,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Samsung,2 in 1 Convertible,14.0,16.0,1.72,197814,Intel Core i9,512GB SSD,Intel HD Graphics 620,macOS
+Razer,2 in 1 Convertible,13.3,,2.58,55522,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1060,No OS
+MSI,Workstation,14.0,64.0,1.08,227204,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Razer,Workstation,13.3,4.0,4.02,249561,AMD E-Series,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+HP,Workstation,12.5,8.0,4.04,114397,Intel Core i3,256GB SSD,AMD Radeon R5,Windows 10
+Apple,Ultrabook,15.6,16.0,3.13,18880,AMD A9,1TB HDD,Intel HD Graphics 620,Windows 10 S
+Apple,2 in 1 Convertible,17.3,16.0,2.24,189526,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Lenovo,Netbook,13.3,8.0,3.94,201783,Intel Core i9,1TB HDD,Intel UHD Graphics 620,No OS
+MSI,Ultrabook,14.0,8.0,3.01,58539,Intel Core i7,1TB HDD,Intel HD Graphics 620,macOS
+Toshiba,Notebook,17.3,8.0,4.04,214393,Intel Core i7,256GB SSD,AMD Radeon R5,Linux
+Lenovo,Workstation,15.6,8.0,3.3,234057,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Razer,Ultrabook,12.5,8.0,3.88,29799,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Lenovo,Ultrabook,17.3,8.0,3.17,119843,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Razer,Notebook,13.3,8.0,2.47,206174,Intel Core i3,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Dell,Gaming,15.6,8.0,4.54,196798,Intel Core i3,1TB HDD,Intel HD Graphics 620,No OS
+Apple,2 in 1 Convertible,14.0,16.0,2.96,63784,Intel Core i9,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Dell,Netbook,15.6,64.0,3.2,128034,Intel Core i9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Samsung,Gaming,15.6,16.0,1.74,189405,Intel Core i9,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+MSI,Workstation,11.6,4.0,3.28,186900,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Toshiba,Ultrabook,15.6,4.0,3.07,215598,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Razer,Notebook,15.6,64.0,1.6,69362,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Toshiba,Notebook,17.3,8.0,1.13,68997,Intel Core i7,256GB SSD,Intel UHD Graphics 620,No OS
+Razer,2 in 1 Convertible,14.0,4.0,3.2,196413,Intel Core i7,512GB SSD,AMD Radeon R5,Linux
+HP,Gaming,17.3,16.0,3.8,165145,Intel Core i3,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Lenovo,2 in 1 Convertible,17.3,16.0,2.89,117399,Intel Core i7,512GB SSD,AMD Radeon R5,Windows 10 S
+Samsung,Ultrabook,13.3,16.0,1.76,29549,Intel Core i5,512GB SSD,AMD Radeon R5,macOS
+Apple,2 in 1 Convertible,17.3,8.0,3.43,229867,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,Linux
+Razer,Netbook,11.6,4.0,1.2,71920,Intel Core i7,512GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Toshiba,Notebook,11.6,64.0,2.58,231398,Intel Core i5,256GB SSD,AMD Radeon R5,No OS
+Samsung,Notebook,13.3,8.0,1.52,221587,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Asus,Workstation,12.5,16.0,1.6,166388,Intel Core i7,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Asus,Workstation,14.0,16.0,1.67,172255,Intel Core i5,1TB HDD,,Windows 10 S
+Dell,Ultrabook,14.0,16.0,2.37,108860,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Apple,Netbook,17.3,8.0,1.09,39624,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+HP,Gaming,17.3,8.0,2.41,208587,AMD A9,256GB SSD,Intel HD Graphics 620,macOS
+Toshiba,2 in 1 Convertible,12.5,16.0,2.84,249784,Intel Core i5,2TB HDD,AMD Radeon R5,macOS
+Lenovo,Ultrabook,17.3,32.0,2.74,231853,Intel Core i3,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Lenovo,Workstation,14.0,32.0,2.35,61705,Intel Core i9,256GB SSD,Intel UHD Graphics 620,No OS
+Toshiba,2 in 1 Convertible,15.6,4.0,4.09,104326,Intel Core i9,512GB SSD,Intel UHD Graphics 620,No OS
+MSI,Workstation,11.6,8.0,1.45,172828,Intel Core i9,1TB HDD,AMD Radeon R5,macOS
+HP,2 in 1 Convertible,15.6,32.0,2.82,75390,Intel Core i3,256GB SSD,Intel HD Graphics 620,No OS
+Samsung,Gaming,15.6,16.0,1.14,83369,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Razer,Ultrabook,14.0,32.0,1.17,216893,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+MSI,2 in 1 Convertible,15.6,8.0,3.08,24589,AMD A9,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Razer,Netbook,12.5,16.0,3.05,128012,Intel Core i3,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Razer,Notebook,13.3,16.0,4.24,160188,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,Windows 10
+MSI,Netbook,17.3,16.0,3.02,88181,Intel Core i9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Dell,Netbook,13.3,8.0,4.55,190858,AMD A9,256GB SSD,Intel HD Graphics 620,Linux
+Asus,Notebook,11.6,4.0,1.09,240758,AMD E-Series,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+Razer,Netbook,17.3,16.0,1.27,138711,Intel Core i3,1TB HDD,Intel HD Graphics 620,Windows 10
+MSI,2 in 1 Convertible,15.6,8.0,1.07,91425,Intel Core i9,256GB SSD,Intel HD Graphics 620,Linux
+MSI,2 in 1 Convertible,11.6,8.0,1.6,176358,Intel Pentium,512GB SSD,AMD Radeon R5,Chrome OS
+Acer,2 in 1 Convertible,17.3,64.0,2.96,249153,Intel Core i5,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Dell,Notebook,12.5,8.0,3.35,30994,Intel Core i7,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Apple,Netbook,12.5,16.0,1.07,247111,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,No OS
+Acer,Notebook,12.5,8.0,4.49,126915,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Acer,2 in 1 Convertible,12.5,16.0,4.1,137961,Intel Pentium,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Toshiba,Netbook,15.6,64.0,2.03,236270,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Asus,Netbook,13.3,4.0,1.19,119672,AMD E-Series,1TB HDD,AMD Radeon R5,No OS
+MSI,Workstation,17.3,4.0,1.55,41639,Intel Core i5,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Asus,Workstation,15.6,8.0,1.38,32205,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,Windows 10
+HP,Gaming,12.5,4.0,1.37,71677,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Toshiba,Ultrabook,13.3,16.0,2.87,47930,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Apple,Workstation,11.6,32.0,,88313,AMD A9,256GB SSD +  1TB HDD,AMD Radeon R5,Linux
+Asus,Notebook,11.6,8.0,2.26,239923,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Lenovo,Workstation,11.6,8.0,,128153,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Razer,Gaming,12.5,8.0,3.5,238581,Intel Core i3,256GB SSD,AMD Radeon R5,Windows 10 S
+HP,Netbook,11.6,16.0,4.51,33316,Intel Core i3,256GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Dell,Gaming,14.0,4.0,1.44,173376,AMD A9,512GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Apple,Netbook,17.3,16.0,2.35,247911,AMD E-Series,256GB SSD,AMD Radeon R5,No OS
+HP,Netbook,17.3,16.0,3.01,111058,Intel Core i3,1TB HDD,Intel UHD Graphics 620,macOS
+Razer,Ultrabook,12.5,16.0,1.19,102876,Intel Pentium,256GB SSD,AMD Radeon R5,No OS
+Toshiba,Workstation,14.0,8.0,0.92,100366,Intel Core i7,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+Razer,Notebook,15.6,16.0,3.45,28403,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Chrome OS
+Acer,Notebook,15.6,4.0,3.34,95052,Intel Core i9,2TB HDD,Intel UHD Graphics 620,Windows 10
+Razer,2 in 1 Convertible,11.6,8.0,2.46,230699,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1050,macOS
+Acer,Netbook,13.3,32.0,2.76,88495,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Toshiba,Notebook,15.6,16.0,2.48,178004,Intel Core i5,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Samsung,Ultrabook,13.3,4.0,0.99,111090,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Acer,Netbook,17.3,8.0,2.17,51701,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Dell,Ultrabook,13.3,8.0,1.57,149457,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Razer,Notebook,17.3,8.0,1.27,245298,Intel Core i9,256GB SSD,Intel UHD Graphics 620,No OS
+Razer,Notebook,14.0,8.0,4.54,72241,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,No OS
+Dell,2 in 1 Convertible,14.0,4.0,3.18,156439,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Lenovo,Notebook,12.5,8.0,3.67,80030,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+MSI,Netbook,12.5,16.0,2.1,192577,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Samsung,Netbook,11.6,16.0,2.39,179404,Intel Core i9,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Apple,Netbook,15.6,16.0,1.8,231250,Intel Pentium,1TB HDD,Intel HD Graphics 620,Chrome OS
+Acer,2 in 1 Convertible,11.6,4.0,1.27,222397,AMD A9,1TB HDD,Intel HD Graphics 620,Windows 10 S
+Dell,2 in 1 Convertible,17.3,64.0,1.58,181340,Intel Core i9,256GB SSD,Intel HD Graphics 620,macOS
+Toshiba,Notebook,11.6,16.0,3.93,232558,AMD E-Series,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+Acer,Gaming,13.3,16.0,3.47,171635,Intel Core i3,2TB HDD,Intel HD Graphics 620,Windows 10
+MSI,Gaming,17.3,16.0,2.98,120185,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1050,No OS
+Toshiba,2 in 1 Convertible,12.5,32.0,2.71,51404,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Chrome OS
+HP,Notebook,14.0,16.0,4.41,70182,Intel Core i3,512GB SSD,Intel UHD Graphics 620,macOS
+Razer,Gaming,12.5,8.0,,47991,AMD A9,2TB HDD,Intel UHD Graphics 620,No OS
+HP,Notebook,15.6,16.0,1.97,119601,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Notebook,17.3,,2.23,193735,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,Notebook,17.3,16.0,3.87,80886,AMD E-Series,512GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Samsung,Workstation,13.3,16.0,4.67,137002,Intel Core i5,512GB SSD,AMD Radeon R5,macOS
+Acer,Netbook,15.6,4.0,1.81,98848,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1050,macOS
+Dell,Notebook,14.0,8.0,4.22,170199,Intel Core i5,512GB SSD,Intel UHD Graphics 620,No OS
+Asus,Workstation,17.3,32.0,4.06,72692,Intel Core i7,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Acer,2 in 1 Convertible,17.3,16.0,1.75,240461,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1060,macOS
+Razer,Gaming,13.3,16.0,2.42,52500,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Razer,Netbook,11.6,8.0,2.46,48785,Intel Core i9,1TB HDD,Intel UHD Graphics 620,No OS
+Acer,Gaming,14.0,8.0,4.62,99146,Intel Core i3,512GB SSD,Intel HD Graphics 620,Windows 10 S
+Toshiba,Netbook,12.5,32.0,1.59,235198,Intel Core i7,512GB SSD,Intel UHD Graphics 620,Linux
+Asus,Gaming,15.6,16.0,3.94,241051,Intel Core i9,1TB HDD,AMD Radeon R5,Windows 10
+Dell,Netbook,17.3,16.0,2.17,62997,Intel Core i9,512GB SSD,,Linux
+Acer,Gaming,17.3,8.0,3.68,22170,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Toshiba,Gaming,12.5,16.0,2.5,159375,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Razer,Gaming,14.0,8.0,3.1,86743,AMD A9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Razer,Gaming,11.6,,4.06,223924,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+MSI,2 in 1 Convertible,17.3,8.0,3.96,50187,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Acer,Notebook,14.0,8.0,4.19,211106,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Asus,Ultrabook,12.5,16.0,1.13,217848,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Lenovo,Workstation,13.3,32.0,3.53,147965,Intel Pentium,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Asus,Ultrabook,11.6,4.0,1.43,159825,Intel Core i9,256GB SSD,Intel HD Graphics 620,No OS
+Razer,Ultrabook,15.6,16.0,2.48,53090,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS
+Razer,Netbook,17.3,8.0,2.98,210994,Intel Core i7,256GB SSD,AMD Radeon R5,Linux
+HP,Notebook,14.0,8.0,2.43,222840,Intel Pentium,256GB SSD,Intel HD Graphics 620,Windows 10
+Razer,Netbook,13.3,4.0,2.87,74412,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Dell,Notebook,15.6,8.0,4.69,71030,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Apple,Notebook,14.0,16.0,1.41,32509,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Acer,Gaming,14.0,4.0,3.47,83653,Intel Core i3,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Asus,2 in 1 Convertible,15.6,8.0,2.4,183001,Intel Core i3,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Apple,Gaming,13.3,32.0,1.41,144626,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Toshiba,2 in 1 Convertible,12.5,4.0,1.5,194363,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+Lenovo,Netbook,13.3,16.0,4.51,19042,Intel Pentium,1TB HDD,AMD Radeon R5,Windows 10
+Dell,2 in 1 Convertible,11.6,8.0,4.24,208646,Intel Pentium,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Asus,Netbook,17.3,16.0,4.35,52201,AMD E-Series,1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Apple,Ultrabook,15.6,8.0,4.67,238354,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Lenovo,Ultrabook,12.5,8.0,1.69,29016,AMD A9,2TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+HP,2 in 1 Convertible,15.6,8.0,2.25,40022,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1050,No OS
+Dell,2 in 1 Convertible,15.6,4.0,3.44,247034,Intel Core i9,256GB SSD,Intel HD Graphics 620,Chrome OS
+Dell,Netbook,13.3,8.0,2.74,42938,AMD A9,1TB HDD,AMD Radeon R5,Windows 10 S
+HP,Gaming,17.3,16.0,2.49,189750,Intel Core i9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Acer,Netbook,11.6,32.0,2.26,133171,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Linux
+HP,Gaming,14.0,16.0,3.16,247320,Intel Core i5,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Dell,Ultrabook,14.0,16.0,3.09,76720,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Dell,Notebook,15.6,4.0,1.51,120514,Intel Pentium,256GB SSD,AMD Radeon R5,macOS
+Apple,2 in 1 Convertible,17.3,8.0,2.69,202877,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Linux
+Razer,Gaming,12.5,8.0,3.0,220395,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Lenovo,Netbook,13.3,8.0,3.07,148058,AMD E-Series,512GB SSD,AMD Radeon R5,Windows 10 S
+HP,Ultrabook,17.3,16.0,1.7,91478,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Lenovo,Gaming,17.3,16.0,3.72,229066,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1050,Linux
+HP,Netbook,13.3,8.0,1.0,158233,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Toshiba,2 in 1 Convertible,15.6,8.0,2.25,166761,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1060,macOS
+Dell,2 in 1 Convertible,17.3,16.0,3.86,142101,AMD E-Series,2TB HDD,AMD Radeon R5,Chrome OS
+Razer,Workstation,14.0,16.0,3.04,109699,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1050,Windows 10
+Apple,Notebook,13.3,8.0,1.89,206996,AMD E-Series,2TB HDD,Intel UHD Graphics 620,Linux
+Razer,Workstation,12.5,32.0,3.54,247383,Intel Core i7,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Razer,Ultrabook,11.6,64.0,3.06,114273,AMD E-Series,512GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Razer,Gaming,15.6,8.0,3.93,220380,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1060,Linux
+Lenovo,Ultrabook,13.3,8.0,3.69,247200,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+HP,Netbook,11.6,16.0,3.22,78745,Intel Pentium,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Samsung,2 in 1 Convertible,11.6,32.0,2.76,147283,Intel Core i3,2TB HDD,AMD Radeon R5,Windows 10 S
+Toshiba,Workstation,12.5,32.0,1.41,146301,Intel Core i5,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Asus,Workstation,17.3,4.0,1.89,133972,AMD E-Series,512GB SSD,Intel UHD Graphics 620,Chrome OS
+Razer,Workstation,12.5,8.0,2.49,194614,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Ultrabook,17.3,16.0,3.18,160417,AMD A9,512GB SSD,AMD Radeon R5,Chrome OS
+Lenovo,2 in 1 Convertible,17.3,16.0,2.85,116489,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Windows 10
+Apple,Gaming,13.3,8.0,2.0,46819,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Asus,Netbook,13.3,32.0,0.92,62779,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Samsung,Gaming,15.6,16.0,2.79,228493,Intel Core i7,2TB HDD,Intel HD Graphics 620,macOS
+Acer,Ultrabook,17.3,16.0,1.99,107244,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Samsung,Netbook,11.6,32.0,3.69,80584,Intel Core i5,1TB HDD,Intel HD Graphics 620,macOS
+Asus,Workstation,14.0,16.0,0.99,166022,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Razer,Notebook,15.6,8.0,3.12,161245,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Ultrabook,13.3,16.0,4.48,73032,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Samsung,Ultrabook,12.5,8.0,1.56,130074,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Apple,2 in 1 Convertible,15.6,16.0,2.69,114273,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+HP,Gaming,15.6,8.0,1.25,43036,Intel Core i5,256GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Dell,Ultrabook,15.6,16.0,3.28,86356,Intel Core i5,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+HP,Ultrabook,15.6,8.0,2.99,160364,Intel Core i5,256GB SSD,Intel HD Graphics 620,Windows 10
+Asus,Workstation,14.0,4.0,2.45,18052,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Windows 10
+Lenovo,Workstation,12.5,8.0,2.88,59377,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Dell,Netbook,12.5,4.0,4.31,235389,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Toshiba,Notebook,12.5,16.0,1.65,213910,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Apple,2 in 1 Convertible,17.3,16.0,0.99,82819,AMD A9,512GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Toshiba,Notebook,11.6,16.0,4.17,128689,Intel Core i9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Acer,Netbook,12.5,8.0,3.09,161692,AMD E-Series,2TB HDD,Intel UHD Graphics 620,No OS
+Dell,Workstation,15.6,4.0,4.28,45461,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Toshiba,Gaming,15.6,4.0,3.17,35750,Intel Pentium,512GB SSD,Intel HD Graphics 620,Windows 10
+Toshiba,Workstation,12.5,8.0,3.98,244498,Intel Core i9,512GB SSD,AMD Radeon R5,Windows 10
+Samsung,2 in 1 Convertible,12.5,32.0,2.53,234791,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1060,Linux
+HP,Workstation,15.6,8.0,3.75,24472,Intel Pentium,256GB SSD,Intel HD Graphics 620,Windows 10
+Samsung,2 in 1 Convertible,17.3,8.0,4.37,84263,AMD A9,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Dell,2 in 1 Convertible,13.3,4.0,3.07,127036,AMD E-Series,256GB SSD,Intel HD Graphics 620,Chrome OS
+Dell,2 in 1 Convertible,13.3,8.0,1.59,203674,Intel Pentium,256GB SSD,Intel HD Graphics 620,No OS
+Asus,Netbook,12.5,16.0,1.92,40523,AMD A9,2TB HDD,AMD Radeon R5,Linux
+Samsung,2 in 1 Convertible,14.0,16.0,1.65,176838,Intel Core i3,512GB SSD,Intel UHD Graphics 620,No OS
+MSI,2 in 1 Convertible,12.5,8.0,1.84,118262,AMD E-Series,1TB HDD,AMD Radeon R5,Linux
+HP,Gaming,12.5,4.0,2.06,81060,AMD A9,512GB SSD,Intel HD Graphics 620,No OS
+Dell,Notebook,13.3,8.0,3.01,24079,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Asus,Ultrabook,15.6,8.0,3.13,154471,Intel Pentium,512GB SSD,AMD Radeon R5,No OS
+Samsung,Notebook,12.5,8.0,2.52,75726,Intel Core i3,2TB HDD,Intel UHD Graphics 620,No OS
+HP,2 in 1 Convertible,15.6,64.0,3.24,107906,Intel Core i9,2TB HDD,Intel HD Graphics 620,Linux
+Samsung,Gaming,15.6,16.0,1.21,31532,AMD A9,2TB HDD,AMD Radeon R5,macOS
+Toshiba,Workstation,14.0,16.0,1.23,137689,AMD A9,512GB SSD,AMD Radeon R5,Linux
+Asus,Gaming,15.6,8.0,1.55,228429,Intel Core i9,1TB HDD,AMD Radeon R5,Linux
+HP,2 in 1 Convertible,13.3,8.0,2.87,58162,Intel Pentium,256GB SSD,AMD Radeon R5,Linux
+Razer,Gaming,17.3,16.0,1.71,149821,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Acer,Gaming,17.3,,1.98,26353,Intel Core i3,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Acer,2 in 1 Convertible,11.6,16.0,2.42,127313,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+HP,Netbook,12.5,8.0,3.99,43477,Intel Core i7,512GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Samsung,Gaming,13.3,16.0,0.95,170642,AMD E-Series,512GB SSD,Nvidia GeForce GTX 1050,macOS
+Asus,Ultrabook,15.6,8.0,3.37,101373,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,Linux
+Acer,Ultrabook,17.3,32.0,3.44,157509,Intel Core i9,1TB HDD,Intel HD Graphics 620,Windows 10
+Asus,Gaming,13.3,16.0,3.93,184176,AMD A9,256GB SSD,Intel HD Graphics 620,macOS
+Acer,Netbook,17.3,16.0,4.44,209442,Intel Core i9,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Toshiba,Workstation,15.6,4.0,0.98,19551,Intel Core i3,256GB SSD +  1TB HDD,,No OS
+Samsung,2 in 1 Convertible,17.3,16.0,1.48,83359,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1050,No OS
+Toshiba,Ultrabook,12.5,4.0,4.27,200952,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Workstation,12.5,8.0,2.64,158988,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Razer,Gaming,11.6,4.0,3.05,141150,Intel Pentium,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Razer,Workstation,11.6,16.0,3.42,226775,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,macOS
+Toshiba,Notebook,17.3,8.0,3.48,187517,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Razer,Ultrabook,13.3,8.0,4.44,62636,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Acer,Gaming,12.5,32.0,4.69,219999,Intel Core i7,256GB SSD,Intel HD Graphics 620,Linux
+HP,2 in 1 Convertible,13.3,8.0,3.64,224266,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Toshiba,Netbook,13.3,16.0,1.99,44685,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Lenovo,Gaming,17.3,8.0,4.24,66134,Intel Core i9,256GB SSD,AMD Radeon R5,Windows 10 S
+Samsung,2 in 1 Convertible,13.3,4.0,1.09,103916,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Razer,Netbook,12.5,16.0,1.78,122967,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Razer,Netbook,15.6,4.0,4.31,109455,Intel Core i5,2TB HDD,Intel UHD Graphics 620,macOS
+Dell,Gaming,11.6,8.0,1.87,213919,AMD A9,512GB SSD,Intel HD Graphics 620,No OS
+MSI,Workstation,15.6,16.0,1.74,186065,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Toshiba,Workstation,13.3,16.0,1.42,190405,Intel Core i7,1TB HDD,Intel HD Graphics 620,No OS
+Apple,Netbook,15.6,16.0,4.16,204937,AMD E-Series,1TB HDD,AMD Radeon R5,Chrome OS
+Razer,Workstation,12.5,8.0,2.8,225168,Intel Core i9,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Samsung,Notebook,12.5,4.0,3.46,64756,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1050,macOS
+Lenovo,Netbook,13.3,16.0,1.81,137863,Intel Core i7,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Razer,Netbook,17.3,16.0,3.78,76192,AMD A9,256GB SSD,Intel HD Graphics 620,No OS
+Lenovo,2 in 1 Convertible,15.6,16.0,3.79,206758,AMD A9,512GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Acer,Workstation,17.3,16.0,2.09,63733,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Acer,Netbook,17.3,16.0,2.46,40993,Intel Core i9,512GB SSD,Intel HD Graphics 620,macOS
+MSI,Notebook,14.0,8.0,1.7,176564,Intel Core i9,2TB HDD,,macOS
+HP,2 in 1 Convertible,13.3,8.0,4.61,167053,Intel Core i9,512GB SSD,AMD Radeon R5,Windows 10 S
+Apple,Gaming,11.6,16.0,3.35,39143,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Windows 10
+Dell,Netbook,12.5,8.0,4.45,223675,AMD A9,256GB SSD +  1TB HDD,AMD Radeon R5,Linux
+MSI,Notebook,12.5,8.0,2.05,235524,Intel Core i7,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Asus,Ultrabook,13.3,32.0,3.87,206349,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Dell,Notebook,11.6,32.0,3.81,122044,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Toshiba,Notebook,12.5,8.0,3.53,196062,Intel Core i5,1TB HDD,Intel UHD Graphics 620,No OS
+Samsung,2 in 1 Convertible,13.3,4.0,4.57,143406,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Asus,Gaming,12.5,8.0,2.4,208960,Intel Pentium,1TB HDD,AMD Radeon R5,Windows 10 S
+Asus,Ultrabook,17.3,16.0,1.4,84351,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,macOS
+MSI,Workstation,15.6,32.0,3.45,243444,Intel Core i5,2TB HDD,Intel UHD Graphics 620,macOS
+HP,Workstation,15.6,8.0,3.67,196071,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+MSI,Notebook,12.5,4.0,3.09,249085,Intel Core i9,512GB SSD,,Linux
+Toshiba,2 in 1 Convertible,14.0,32.0,1.69,248883,AMD E-Series,512GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Razer,2 in 1 Convertible,11.6,8.0,2.82,85309,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Razer,Workstation,11.6,16.0,2.09,158518,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1050,No OS
+HP,Ultrabook,11.6,64.0,2.52,176805,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Toshiba,Gaming,17.3,4.0,3.35,134156,Intel Core i7,1TB HDD,AMD Radeon R5,Chrome OS
+HP,Ultrabook,11.6,16.0,3.73,91000,Intel Core i3,1TB HDD,Intel HD Graphics 620,macOS
+Lenovo,Netbook,15.6,4.0,1.78,194704,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Razer,Netbook,17.3,8.0,2.44,36576,AMD E-Series,1TB HDD,AMD Radeon R5,No OS
+Asus,Gaming,13.3,16.0,1.92,18320,AMD E-Series,512GB SSD,AMD Radeon R5,No OS
+Apple,Workstation,11.6,8.0,1.65,156822,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Samsung,Gaming,11.6,64.0,3.88,118002,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Toshiba,2 in 1 Convertible,13.3,16.0,4.36,199535,Intel Core i5,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+Dell,Netbook,11.6,8.0,2.31,41572,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS
+HP,Notebook,13.3,8.0,,32948,Intel Core i3,2TB HDD,AMD Radeon R5,macOS
+Samsung,Notebook,17.3,8.0,4.31,131528,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1050,No OS
+Dell,Workstation,15.6,8.0,4.12,184898,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Samsung,2 in 1 Convertible,13.3,4.0,1.59,104051,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Apple,Ultrabook,14.0,8.0,4.53,42867,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1050,Linux
+Dell,2 in 1 Convertible,13.3,8.0,2.33,206303,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+MSI,Notebook,11.6,16.0,2.19,212334,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,macOS
+Acer,Notebook,17.3,16.0,1.14,237428,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+MSI,Netbook,12.5,16.0,2.75,218305,Intel Core i9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Razer,2 in 1 Convertible,17.3,4.0,1.31,59678,AMD E-Series,512GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Acer,2 in 1 Convertible,12.5,8.0,1.84,122561,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,Notebook,13.3,16.0,2.1,27963,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Acer,Ultrabook,15.6,8.0,3.97,210432,Intel Pentium,512GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Acer,Workstation,14.0,,4.23,64434,Intel Pentium,256GB SSD +  1TB HDD,AMD Radeon R5,Linux
+Asus,Workstation,17.3,16.0,2.05,81617,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1060,macOS
+HP,2 in 1 Convertible,11.6,16.0,4.16,166341,AMD A9,256GB SSD,Intel HD Graphics 620,Windows 10 S
+HP,Workstation,12.5,16.0,4.16,132569,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Asus,Notebook,11.6,4.0,3.81,222384,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Windows 10
+Samsung,Notebook,15.6,16.0,1.46,112352,Intel Pentium,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Lenovo,2 in 1 Convertible,12.5,16.0,3.52,94732,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1060,No OS
+Samsung,2 in 1 Convertible,17.3,16.0,4.49,122648,Intel Core i7,256GB SSD,Intel HD Graphics 620,Chrome OS
+Dell,Netbook,13.3,16.0,3.49,96494,AMD A9,2TB HDD,AMD Radeon R5,macOS
+Dell,2 in 1 Convertible,11.6,16.0,2.16,234977,Intel Pentium,512GB SSD,Intel HD Graphics 620,Linux
+Acer,Ultrabook,15.6,16.0,2.8,92225,Intel Pentium,1TB HDD,Intel UHD Graphics 620,Windows 10
+MSI,Workstation,17.3,4.0,3.35,97867,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,macOS
+MSI,2 in 1 Convertible,17.3,16.0,2.84,183600,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+HP,Gaming,17.3,16.0,1.36,93972,AMD A9,512GB SSD,Intel HD Graphics 620,Chrome OS
+Toshiba,Netbook,17.3,16.0,2.09,211674,Intel Core i7,2TB HDD,Intel UHD Graphics 620,Windows 10
+Samsung,Gaming,12.5,8.0,3.95,111261,AMD E-Series,256GB SSD,,Chrome OS
+Razer,Notebook,17.3,8.0,4.17,105748,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Apple,Workstation,11.6,32.0,1.42,179404,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+MSI,2 in 1 Convertible,15.6,16.0,4.52,139481,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+Apple,Gaming,12.5,32.0,2.15,237009,AMD E-Series,256GB SSD,AMD Radeon R5,Linux
+Acer,Workstation,17.3,16.0,3.42,144529,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Apple,Notebook,14.0,16.0,3.76,225001,AMD A9,1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Razer,Ultrabook,14.0,16.0,3.99,215278,Intel Core i5,2TB HDD,Intel UHD Graphics 620,macOS
+Asus,Netbook,15.6,32.0,4.49,237209,Intel Core i3,512GB SSD,AMD Radeon R5,Chrome OS
+Razer,Workstation,13.3,16.0,2.09,17251,Intel Pentium,1TB HDD,Intel UHD Graphics 620,No OS
+Apple,Workstation,13.3,16.0,4.16,191789,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1060,macOS
+Razer,Ultrabook,12.5,8.0,1.4,114108,AMD E-Series,512GB SSD,AMD Radeon R5,Chrome OS
+Lenovo,Workstation,12.5,8.0,3.58,173099,AMD E-Series,2TB HDD,Intel UHD Graphics 620,Windows 10
+Acer,Notebook,12.5,16.0,,112382,Intel Core i5,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Samsung,Notebook,13.3,8.0,3.48,232623,AMD A9,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Asus,Ultrabook,14.0,8.0,1.86,24583,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,Windows 10
+MSI,Netbook,13.3,8.0,4.22,65387,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Dell,2 in 1 Convertible,11.6,8.0,1.54,38104,AMD A9,2TB HDD,Nvidia GeForce GTX 1050,No OS
+Samsung,Gaming,17.3,8.0,1.1,27224,AMD A9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Dell,2 in 1 Convertible,12.5,8.0,3.63,75624,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Acer,Workstation,14.0,32.0,2.71,202130,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Asus,Gaming,15.6,16.0,4.13,119320,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+HP,Ultrabook,15.6,8.0,2.36,242444,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1050,Linux
+MSI,Ultrabook,17.3,4.0,1.54,175371,Intel Core i5,256GB SSD,Intel HD Graphics 620,macOS
+Lenovo,Netbook,14.0,16.0,4.08,93572,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+HP,Gaming,13.3,8.0,2.99,100469,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,macOS
+Acer,Notebook,13.3,16.0,1.62,92928,AMD A9,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Samsung,Gaming,11.6,16.0,3.64,219546,Intel Core i5,256GB SSD,,Chrome OS
+Lenovo,Workstation,11.6,16.0,2.84,19141,Intel Core i9,256GB SSD +  1TB HDD,,Windows 10
+Razer,Notebook,13.3,8.0,3.2,169422,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Apple,Ultrabook,15.6,16.0,2.65,221154,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Lenovo,Gaming,12.5,8.0,4.05,85871,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Acer,2 in 1 Convertible,15.6,32.0,4.05,151149,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Toshiba,Netbook,11.6,16.0,3.6,61015,AMD A9,256GB SSD,AMD Radeon R5,Windows 10 S
+Apple,2 in 1 Convertible,17.3,8.0,1.3,217219,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Dell,Netbook,13.3,8.0,4.09,205252,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,Workstation,11.6,8.0,3.45,186929,Intel Core i3,256GB SSD,AMD Radeon R5,Windows 10 S
+Dell,2 in 1 Convertible,11.6,16.0,3.55,247268,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1060,Linux
+Lenovo,Gaming,12.5,8.0,2.28,205912,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Dell,Gaming,13.3,16.0,4.24,74902,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Acer,2 in 1 Convertible,12.5,8.0,3.66,20577,Intel Core i5,256GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Razer,Gaming,13.3,16.0,1.33,35002,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Samsung,Workstation,12.5,16.0,2.45,65711,AMD E-Series,512GB SSD,Nvidia GeForce GTX 1060,Linux
+MSI,Notebook,15.6,16.0,4.27,54451,Intel Core i7,2TB HDD,Intel UHD Graphics 620,Linux
+Dell,Workstation,17.3,16.0,1.08,245883,Intel Core i5,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Dell,Netbook,17.3,8.0,4.55,195175,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Lenovo,Workstation,13.3,4.0,3.48,174719,Intel Core i7,256GB SSD,Intel HD Graphics 620,Chrome OS
+Samsung,Netbook,14.0,16.0,,49831,AMD A9,512GB SSD,Intel HD Graphics 620,No OS
+HP,Gaming,11.6,8.0,1.93,246376,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Dell,Notebook,11.6,8.0,1.85,111498,Intel Core i9,256GB SSD,Intel HD Graphics 620,Windows 10
+Acer,Gaming,13.3,4.0,4.48,143949,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Toshiba,Ultrabook,12.5,8.0,2.03,110119,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+MSI,Gaming,14.0,4.0,3.85,81830,Intel Core i5,1TB HDD,Intel UHD Graphics 620,No OS
+Dell,Netbook,15.6,32.0,2.39,95632,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Gaming,12.5,8.0,1.43,51833,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Acer,Gaming,12.5,,,238936,AMD A9,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+MSI,Notebook,13.3,4.0,2.97,39398,Intel Pentium,512GB SSD,AMD Radeon R5,Linux
+HP,Gaming,13.3,16.0,4.61,76554,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,macOS
+Acer,Notebook,11.6,8.0,2.3,65755,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Toshiba,2 in 1 Convertible,13.3,32.0,2.26,163778,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Acer,Ultrabook,13.3,32.0,2.21,168412,Intel Core i9,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Acer,Notebook,13.3,8.0,2.88,79994,Intel Core i5,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Acer,Netbook,11.6,32.0,2.57,78884,Intel Core i7,1TB HDD,Intel HD Graphics 620,Chrome OS
+Razer,2 in 1 Convertible,15.6,64.0,4.24,99361,Intel Core i3,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Razer,Notebook,15.6,16.0,2.82,32482,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1060,No OS
+HP,Notebook,13.3,16.0,2.83,69225,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Dell,Ultrabook,11.6,8.0,1.43,204921,Intel Pentium,256GB SSD,Intel UHD Graphics 620,macOS
+Acer,Netbook,15.6,16.0,4.63,89854,Intel Pentium,512GB SSD,Intel HD Graphics 620,No OS
+Samsung,Workstation,12.5,4.0,1.85,56256,Intel Core i3,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Dell,Workstation,15.6,4.0,1.18,123721,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+HP,Notebook,15.6,64.0,3.42,96110,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1060,Linux
+Asus,Gaming,11.6,8.0,3.16,128606,Intel Pentium,1TB HDD,Intel UHD Graphics 620,macOS
+Dell,Netbook,12.5,16.0,2.48,29650,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Dell,2 in 1 Convertible,11.6,16.0,2.5,192190,AMD E-Series,2TB HDD,,Chrome OS
+Apple,Gaming,13.3,,,43930,Intel Core i7,2TB HDD,AMD Radeon R5,Linux
+Lenovo,Gaming,17.3,64.0,1.64,231779,Intel Core i7,1TB HDD,Intel HD Graphics 620,macOS
+Apple,Netbook,15.6,8.0,4.02,115400,Intel Core i3,512GB SSD,Intel HD Graphics 620,Windows 10 S
+Toshiba,Notebook,17.3,4.0,3.37,26801,Intel Pentium,256GB SSD,Intel UHD Graphics 620,macOS
+Razer,Notebook,11.6,,2.49,66360,Intel Core i5,256GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Razer,Notebook,11.6,4.0,2.64,102908,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Lenovo,Notebook,11.6,4.0,1.88,162631,Intel Core i3,256GB SSD,AMD Radeon R5,Chrome OS
+MSI,Workstation,17.3,8.0,3.76,47334,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1050,macOS
+MSI,Notebook,11.6,16.0,2.85,28288,AMD A9,1TB HDD,AMD Radeon R5,macOS
+HP,Workstation,13.3,16.0,2.12,168470,Intel Core i7,512GB SSD,Intel HD Graphics 620,Chrome OS
+Lenovo,Workstation,11.6,8.0,3.16,222302,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,No OS
+Dell,Notebook,14.0,16.0,4.68,27191,Intel Core i9,2TB HDD,Intel UHD Graphics 620,Linux
+MSI,Ultrabook,17.3,8.0,2.55,33051,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1050,No OS
+Acer,2 in 1 Convertible,14.0,4.0,4.4,76715,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Windows 10
+Samsung,Gaming,11.6,16.0,2.21,25737,Intel Pentium,1TB HDD,Intel HD Graphics 620,Chrome OS
+Dell,Workstation,13.3,16.0,1.11,80140,Intel Pentium,2TB HDD,Intel UHD Graphics 620,Chrome OS
+Toshiba,Netbook,15.6,16.0,1.68,171323,Intel Core i9,256GB SSD,Intel UHD Graphics 620,macOS
+Acer,Netbook,12.5,4.0,2.49,197047,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Acer,2 in 1 Convertible,12.5,16.0,1.73,20147,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Lenovo,Netbook,11.6,16.0,0.9,65508,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+HP,Ultrabook,13.3,16.0,4.38,67224,Intel Core i5,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+Toshiba,Netbook,17.3,16.0,4.11,34643,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1050,macOS
+MSI,Gaming,14.0,32.0,3.72,53967,Intel Core i3,1TB HDD,Intel UHD Graphics 620,macOS
+Lenovo,Gaming,14.0,16.0,1.54,244922,Intel Core i3,1TB HDD,Intel UHD Graphics 620,Windows 10 S
+MSI,Workstation,14.0,16.0,1.36,118535,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Lenovo,Notebook,17.3,64.0,1.16,55733,AMD A9,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Lenovo,Ultrabook,12.5,16.0,3.65,230075,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Lenovo,Workstation,13.3,8.0,4.43,49808,Intel Core i5,2TB HDD,Intel HD Graphics 620,Windows 10 S
+HP,Ultrabook,17.3,16.0,2.54,213360,AMD A9,512GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Lenovo,Notebook,14.0,8.0,1.35,73959,AMD A9,2TB HDD,Intel HD Graphics 620,Chrome OS
+Asus,Netbook,11.6,8.0,2.85,147921,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1050,macOS
+Samsung,Netbook,15.6,16.0,2.23,83178,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+MSI,Notebook,17.3,32.0,2.32,213208,Intel Core i3,1TB HDD,AMD Radeon R5,Windows 10
+Dell,Workstation,17.3,32.0,3.26,206812,Intel Core i7,512GB SSD,Intel UHD Graphics 620,Windows 10
+Apple,Notebook,13.3,8.0,3.63,127255,Intel Core i3,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Toshiba,2 in 1 Convertible,13.3,16.0,1.32,101322,AMD A9,2TB HDD,AMD Radeon R5,Chrome OS
+Razer,Gaming,17.3,8.0,1.04,59565,Intel Core i7,512GB SSD,AMD Radeon R5,macOS
+HP,Workstation,14.0,64.0,4.68,166255,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Dell,Ultrabook,15.6,64.0,1.78,16132,AMD A9,512GB SSD,AMD Radeon R5,No OS
+Acer,2 in 1 Convertible,13.3,16.0,1.1,184331,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Asus,Workstation,14.0,16.0,1.62,242684,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Razer,Notebook,11.6,16.0,1.05,78668,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1050,Linux
+Apple,Notebook,13.3,16.0,2.39,184635,Intel Core i3,512GB SSD,AMD Radeon R5,No OS
+Dell,Notebook,14.0,4.0,3.95,238299,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Windows 10
+Razer,Notebook,14.0,8.0,2.2,123835,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Dell,Ultrabook,15.6,16.0,2.59,157003,Intel Core i9,2TB HDD,Intel UHD Graphics 620,Linux
+Asus,2 in 1 Convertible,15.6,16.0,3.47,88169,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Apple,Netbook,11.6,8.0,,196711,Intel Core i7,256GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Acer,Gaming,14.0,32.0,4.17,249385,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Lenovo,Ultrabook,12.5,8.0,4.19,204973,Intel Pentium,256GB SSD,Intel UHD Graphics 620,Linux
+MSI,Ultrabook,14.0,16.0,0.94,115417,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Acer,Netbook,15.6,16.0,3.86,16044,Intel Core i3,256GB SSD,Intel HD Graphics 620,Windows 10
+Lenovo,Netbook,12.5,16.0,2.65,192763,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+HP,Gaming,13.3,16.0,4.66,246807,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Samsung,Gaming,13.3,8.0,2.74,39363,Intel Core i9,512GB SSD,Intel HD Graphics 620,Windows 10 S
+Toshiba,Netbook,17.3,8.0,4.65,61694,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS
+Toshiba,Notebook,15.6,16.0,3.77,147654,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,Ultrabook,17.3,16.0,1.84,225982,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Apple,Workstation,12.5,8.0,2.95,212916,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1060,No OS
+Asus,Gaming,15.6,,4.67,36301,Intel Pentium,512GB SSD +  1TB HDD,AMD Radeon R5,Linux
+Apple,Gaming,11.6,8.0,4.16,89329,AMD A9,256GB SSD,Intel UHD Graphics 620,Windows 10
+Asus,Netbook,14.0,16.0,1.27,16620,AMD E-Series,2TB HDD,Intel HD Graphics 620,Chrome OS
+Apple,2 in 1 Convertible,11.6,16.0,3.58,77224,Intel Core i3,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Samsung,Workstation,12.5,8.0,2.21,202727,Intel Core i3,256GB SSD,Intel UHD Graphics 620,Linux
+HP,Workstation,15.6,4.0,0.93,110419,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Chrome OS
+HP,Gaming,12.5,16.0,2.43,183606,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,macOS
+Lenovo,Notebook,14.0,16.0,1.79,135050,Intel Core i3,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Razer,2 in 1 Convertible,13.3,16.0,4.01,249568,Intel Core i3,512GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+HP,Workstation,13.3,,2.18,185462,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1050,Linux
+HP,Gaming,12.5,16.0,4.04,217701,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Acer,Workstation,17.3,64.0,0.9,70856,Intel Core i7,256GB SSD,Intel HD Graphics 620,Windows 10
+Acer,2 in 1 Convertible,15.6,16.0,2.07,195324,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Windows 10
+Lenovo,2 in 1 Convertible,15.6,8.0,1.82,70809,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,No OS
+Razer,Ultrabook,13.3,8.0,1.79,37259,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1050,macOS
+MSI,Netbook,11.6,8.0,1.16,35655,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Windows 10
+Acer,Netbook,14.0,16.0,1.61,179077,Intel Core i5,1TB HDD,Intel UHD Graphics 620,macOS
+MSI,Gaming,11.6,8.0,3.01,177701,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Dell,2 in 1 Convertible,11.6,32.0,2.01,169682,AMD E-Series,1TB HDD,Intel UHD Graphics 620,No OS
+Acer,Ultrabook,12.5,16.0,2.49,203256,Intel Core i7,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Samsung,Ultrabook,13.3,16.0,2.33,36602,Intel Core i9,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Razer,Workstation,13.3,8.0,4.23,100945,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Lenovo,Workstation,13.3,4.0,4.34,157182,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Dell,Ultrabook,12.5,4.0,2.77,152145,Intel Core i5,512GB SSD,AMD Radeon R5,Chrome OS
+Razer,Workstation,17.3,8.0,2.15,115846,Intel Core i5,256GB SSD,AMD Radeon R5,Windows 10
+Samsung,2 in 1 Convertible,11.6,4.0,1.31,95818,AMD A9,256GB SSD,AMD Radeon R5,Windows 10
+Razer,Notebook,12.5,16.0,4.52,156267,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Samsung,2 in 1 Convertible,15.6,32.0,1.13,16537,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Samsung,Ultrabook,14.0,32.0,2.03,163210,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+MSI,Ultrabook,17.3,16.0,2.03,190400,Intel Core i9,512GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Apple,2 in 1 Convertible,15.6,8.0,2.12,192274,Intel Core i5,256GB SSD,AMD Radeon R5,Windows 10 S
+Dell,Workstation,11.6,32.0,1.52,186236,Intel Core i9,256GB SSD,Intel HD Graphics 620,Windows 10
+Razer,Workstation,13.3,32.0,3.88,141545,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS
+Asus,Netbook,11.6,8.0,1.37,104743,Intel Core i7,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Dell,Ultrabook,12.5,16.0,3.31,200731,Intel Core i5,256GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Apple,Gaming,14.0,8.0,1.37,101155,AMD E-Series,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Dell,Netbook,12.5,16.0,1.17,195764,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1060,No OS
+HP,Workstation,17.3,64.0,4.36,135198,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Asus,2 in 1 Convertible,17.3,4.0,1.62,170917,Intel Core i5,256GB SSD,AMD Radeon R5,Linux
+Apple,Workstation,14.0,32.0,4.02,104846,Intel Core i9,512GB SSD,AMD Radeon R5,No OS
+MSI,2 in 1 Convertible,15.6,16.0,2.97,249507,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Razer,Netbook,15.6,64.0,1.2,45562,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,macOS
+Toshiba,Ultrabook,17.3,8.0,4.53,43036,Intel Core i5,512GB SSD,AMD Radeon R5,Windows 10 S
+Apple,Workstation,17.3,16.0,1.84,206824,AMD A9,512GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Lenovo,2 in 1 Convertible,13.3,4.0,4.17,89233,Intel Core i3,2TB HDD,Intel UHD Graphics 620,No OS
+Razer,Ultrabook,15.6,8.0,1.54,98049,Intel Core i9,512GB SSD,Intel HD Graphics 620,Linux
+Apple,Gaming,14.0,4.0,4.14,83681,AMD A9,256GB SSD,AMD Radeon R5,Windows 10
+HP,2 in 1 Convertible,15.6,64.0,,42818,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Toshiba,Netbook,13.3,16.0,2.84,176616,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+HP,Gaming,12.5,32.0,3.82,77532,Intel Core i5,2TB HDD,Intel UHD Graphics 620,macOS
+Toshiba,Gaming,17.3,32.0,4.45,224708,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Lenovo,Notebook,17.3,4.0,,72705,Intel Core i9,2TB HDD,Intel UHD Graphics 620,No OS
+Razer,Workstation,13.3,8.0,4.01,35104,Intel Core i3,2TB HDD,Intel HD Graphics 620,No OS
+MSI,2 in 1 Convertible,14.0,4.0,4.28,139336,Intel Core i7,512GB SSD,,Linux
+HP,Gaming,17.3,8.0,1.66,142904,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1050,Linux
+HP,Notebook,11.6,8.0,1.98,84603,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Samsung,Netbook,17.3,8.0,2.0,117499,Intel Core i5,2TB HDD,Intel HD Graphics 620,No OS
+Toshiba,Ultrabook,11.6,8.0,2.33,74025,AMD A9,256GB SSD +  1TB HDD,,Chrome OS
+Acer,2 in 1 Convertible,13.3,4.0,2.39,242336,Intel Core i7,256GB SSD,Intel UHD Graphics 620,macOS
+Razer,Gaming,13.3,8.0,2.97,47317,Intel Core i9,2TB HDD,Intel HD Graphics 620,Windows 10
+Toshiba,Workstation,17.3,4.0,1.51,177488,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,Windows 10
+Samsung,Notebook,15.6,64.0,3.53,188084,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Dell,Gaming,11.6,,1.54,120585,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Toshiba,Workstation,14.0,64.0,2.08,214117,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1060,Linux
+MSI,Gaming,17.3,8.0,2.81,167472,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Razer,2 in 1 Convertible,14.0,8.0,3.93,63270,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Samsung,2 in 1 Convertible,17.3,16.0,3.71,218141,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1060,Linux
+Dell,2 in 1 Convertible,15.6,8.0,3.35,134415,Intel Core i9,512GB SSD,Intel UHD Graphics 620,Linux
+Asus,Netbook,15.6,8.0,1.49,195905,Intel Core i9,512GB SSD +  1TB HDD,,No OS
+Samsung,Netbook,15.6,8.0,2.98,209716,Intel Core i5,512GB SSD,Intel UHD Graphics 620,No OS
+Asus,Notebook,12.5,4.0,,95206,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Razer,2 in 1 Convertible,15.6,8.0,2.33,84468,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+HP,Workstation,13.3,8.0,2.47,205545,Intel Core i9,2TB HDD,Intel UHD Graphics 620,No OS
+Samsung,Gaming,13.3,16.0,1.05,191881,AMD A9,256GB SSD,AMD Radeon R5,macOS
+Lenovo,Ultrabook,12.5,4.0,1.94,184400,Intel Core i3,1TB HDD,Intel UHD Graphics 620,Linux
+Asus,Workstation,11.6,8.0,4.53,182856,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+MSI,Netbook,14.0,16.0,4.52,38723,Intel Core i7,1TB HDD,AMD Radeon R5,Windows 10
+Lenovo,Netbook,17.3,4.0,2.24,75646,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Apple,Workstation,17.3,8.0,1.06,212327,Intel Core i9,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Apple,Netbook,12.5,32.0,1.58,15074,AMD E-Series,2TB HDD,,No OS
+Dell,2 in 1 Convertible,13.3,8.0,2.39,41498,AMD E-Series,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+HP,Notebook,17.3,4.0,4.5,211594,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Linux
+Razer,Gaming,13.3,8.0,1.44,111881,AMD E-Series,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Samsung,Notebook,11.6,8.0,3.8,166613,AMD A9,1TB HDD,AMD Radeon R5,Windows 10 S
+Acer,Gaming,14.0,16.0,1.31,60929,AMD A9,256GB SSD +  1TB HDD,AMD Radeon R5,Linux
+MSI,Gaming,11.6,16.0,4.63,138199,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,No OS
+Asus,Notebook,12.5,4.0,2.35,246525,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Razer,Workstation,15.6,16.0,3.85,41028,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Lenovo,Gaming,15.6,16.0,2.2,44545,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Apple,Notebook,15.6,4.0,3.29,94569,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1050,Windows 10
+MSI,Gaming,11.6,16.0,1.63,46673,Intel Core i7,2TB HDD,Intel HD Graphics 620,macOS
+Acer,Ultrabook,17.3,8.0,,177046,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Linux
+Samsung,Workstation,14.0,8.0,4.46,204971,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Dell,2 in 1 Convertible,15.6,4.0,4.39,169169,Intel Core i3,1TB HDD,Intel HD Graphics 620,Windows 10 S
+Acer,Gaming,12.5,8.0,4.27,117511,Intel Pentium,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+MSI,Ultrabook,12.5,8.0,3.28,108144,AMD E-Series,1TB HDD,AMD Radeon R5,Linux
+Acer,2 in 1 Convertible,15.6,16.0,,79824,Intel Core i7,256GB SSD,Intel HD Graphics 620,macOS
+MSI,2 in 1 Convertible,15.6,4.0,1.16,38525,Intel Core i9,2TB HDD,AMD Radeon R5,Linux
+MSI,Gaming,14.0,8.0,2.17,72804,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1060,No OS
+Toshiba,Notebook,15.6,8.0,2.09,161115,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Asus,Gaming,14.0,16.0,3.32,56846,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,Linux
+Apple,Ultrabook,12.5,16.0,2.25,92261,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Toshiba,2 in 1 Convertible,15.6,16.0,1.46,248312,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Samsung,Gaming,11.6,16.0,3.17,196299,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Toshiba,Notebook,11.6,32.0,3.99,199100,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+HP,Gaming,12.5,8.0,2.35,183455,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,macOS
+HP,Workstation,14.0,16.0,1.4,44483,Intel Core i7,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Apple,Notebook,11.6,16.0,1.65,22265,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS
+Acer,Ultrabook,14.0,64.0,1.8,37763,AMD A9,512GB SSD +  1TB HDD,,Linux
+Asus,2 in 1 Convertible,11.6,32.0,2.04,221724,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Apple,Gaming,11.6,8.0,,30733,Intel Pentium,256GB SSD,,Windows 10 S
+MSI,Notebook,14.0,8.0,3.18,127196,Intel Core i5,256GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Lenovo,Workstation,17.3,8.0,3.55,106038,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Asus,Notebook,11.6,16.0,2.28,52420,AMD E-Series,512GB SSD,Intel HD Graphics 620,macOS
+Asus,Netbook,15.6,8.0,4.03,155319,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+MSI,Workstation,12.5,8.0,1.68,169912,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+MSI,Ultrabook,17.3,16.0,2.68,211221,Intel Pentium,512GB SSD,AMD Radeon R5,No OS
+Dell,2 in 1 Convertible,14.0,8.0,3.94,36058,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,Ultrabook,17.3,32.0,1.58,49929,Intel Core i5,512GB SSD,AMD Radeon R5,Chrome OS
+MSI,Gaming,13.3,8.0,1.32,230243,Intel Core i5,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+HP,Notebook,13.3,8.0,4.26,237236,Intel Core i5,256GB SSD,Intel HD Graphics 620,Windows 10
+Samsung,Netbook,11.6,8.0,2.2,177434,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Lenovo,Workstation,11.6,16.0,3.5,101489,Intel Core i5,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Apple,Workstation,15.6,4.0,1.0,99664,Intel Core i3,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Razer,Notebook,12.5,8.0,3.52,193428,Intel Pentium,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+HP,Netbook,17.3,64.0,2.1,92597,Intel Core i7,512GB SSD,AMD Radeon R5,Chrome OS
+Acer,Notebook,13.3,8.0,1.11,21041,Intel Core i7,256GB SSD,Intel UHD Graphics 620,No OS
+MSI,Gaming,11.6,16.0,3.22,93209,AMD A9,2TB HDD,AMD Radeon R5,Linux
+Razer,Ultrabook,12.5,16.0,1.82,208026,Intel Core i3,512GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+MSI,Workstation,17.3,8.0,2.37,207941,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Asus,Gaming,11.6,16.0,1.21,167131,Intel Core i5,256GB SSD,Intel UHD Graphics 620,No OS
+HP,Ultrabook,11.6,8.0,,114864,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Asus,Gaming,13.3,16.0,2.03,190794,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Dell,Netbook,13.3,8.0,1.24,163620,AMD A9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Asus,Workstation,11.6,16.0,4.36,161150,Intel Core i5,1TB HDD,AMD Radeon R5,No OS
+Dell,Notebook,14.0,4.0,0.92,151491,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Dell,Notebook,11.6,16.0,2.74,181562,Intel Core i3,512GB SSD,Intel HD Graphics 620,Chrome OS
+Razer,Ultrabook,12.5,8.0,1.37,222158,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+MSI,2 in 1 Convertible,11.6,8.0,2.07,130158,Intel Core i5,1TB HDD,Intel UHD Graphics 620,Linux
+Acer,Netbook,15.6,8.0,4.42,204832,Intel Pentium,2TB HDD,Intel HD Graphics 620,macOS
+Asus,Ultrabook,15.6,8.0,1.51,176409,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1050,Windows 10
+HP,2 in 1 Convertible,15.6,16.0,4.57,16468,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Dell,Gaming,14.0,8.0,1.68,39309,Intel Core i5,256GB SSD,AMD Radeon R5,Linux
+MSI,Netbook,14.0,32.0,3.72,212416,Intel Core i9,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Lenovo,Gaming,11.6,64.0,2.98,236355,Intel Pentium,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,Workstation,15.6,16.0,4.26,87255,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1050,macOS
+Razer,Netbook,14.0,4.0,3.01,96899,AMD A9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Acer,2 in 1 Convertible,13.3,8.0,2.93,43718,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+Toshiba,Workstation,11.6,16.0,1.64,240409,Intel Core i7,1TB HDD,AMD Radeon R5,macOS
+Razer,Notebook,12.5,8.0,1.53,183913,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Lenovo,2 in 1 Convertible,17.3,4.0,4.38,219620,Intel Core i5,1TB HDD,AMD Radeon R5,No OS
+Apple,Ultrabook,11.6,16.0,2.15,229637,Intel Pentium,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Lenovo,Notebook,17.3,16.0,2.31,192732,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Asus,Notebook,15.6,16.0,3.79,121553,Intel Core i5,2TB HDD,AMD Radeon R5,Windows 10 S
+Dell,Ultrabook,17.3,8.0,2.19,65281,Intel Core i7,512GB SSD,,Windows 10 S
+Acer,Netbook,15.6,16.0,4.52,128451,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Samsung,Notebook,13.3,8.0,3.7,15767,Intel Pentium,512GB SSD,Intel HD Graphics 620,Windows 10 S
+Dell,2 in 1 Convertible,17.3,8.0,3.17,149967,AMD E-Series,512GB SSD,AMD Radeon R5,No OS
+Samsung,Workstation,11.6,,4.25,73026,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,Notebook,15.6,8.0,1.09,133142,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+MSI,2 in 1 Convertible,11.6,8.0,1.88,57968,Intel Pentium,256GB SSD,,No OS
+Toshiba,Gaming,14.0,4.0,2.67,186169,AMD A9,2TB HDD,Intel UHD Graphics 620,Chrome OS
+HP,2 in 1 Convertible,15.6,32.0,1.76,161404,AMD E-Series,1TB HDD,Intel UHD Graphics 620,No OS
+Dell,Workstation,17.3,16.0,3.73,160693,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Acer,2 in 1 Convertible,15.6,16.0,4.39,91870,Intel Pentium,2TB HDD,Intel HD Graphics 620,macOS
+Lenovo,Ultrabook,11.6,16.0,2.51,33174,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Acer,Workstation,13.3,8.0,2.2,139357,Intel Core i9,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Apple,Netbook,15.6,8.0,,114189,Intel Core i5,2TB HDD,AMD Radeon R5,Chrome OS
+Samsung,Gaming,17.3,8.0,2.59,55502,Intel Core i7,2TB HDD,Intel UHD Graphics 620,No OS
+Lenovo,Ultrabook,14.0,4.0,2.76,51674,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+HP,Netbook,12.5,8.0,2.24,52260,Intel Core i9,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+HP,2 in 1 Convertible,13.3,32.0,4.36,188570,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Dell,Workstation,14.0,4.0,3.06,213681,Intel Core i5,1TB HDD,AMD Radeon R5,Windows 10 S
+Apple,Gaming,15.6,8.0,3.8,195536,Intel Pentium,256GB SSD,Intel HD Graphics 620,macOS
+MSI,Ultrabook,11.6,8.0,3.98,86805,AMD A9,1TB HDD,AMD Radeon R5,Chrome OS
+Apple,Netbook,11.6,8.0,2.2,210991,Intel Core i5,512GB SSD,Intel HD Graphics 620,Chrome OS
+Samsung,Netbook,17.3,32.0,2.55,200541,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1060,No OS
+Acer,Gaming,11.6,8.0,4.12,32194,Intel Pentium,1TB HDD,Intel HD Graphics 620,macOS
+HP,2 in 1 Convertible,13.3,8.0,2.28,172883,Intel Pentium,256GB SSD,Intel UHD Graphics 620,Windows 10
+Acer,Gaming,11.6,16.0,3.92,87377,AMD A9,256GB SSD,AMD Radeon R5,Chrome OS
+Acer,Netbook,17.3,8.0,4.48,145864,AMD E-Series,512GB SSD,Intel HD Graphics 620,No OS
+Acer,Notebook,12.5,8.0,3.27,58723,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Windows 10
+HP,Ultrabook,15.6,8.0,3.72,246408,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Razer,Gaming,15.6,16.0,3.96,221307,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Asus,Netbook,11.6,64.0,4.11,91298,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,No OS
+Samsung,2 in 1 Convertible,14.0,16.0,2.4,74238,Intel Core i5,2TB HDD,Nvidia GeForce GTX 1050,No OS
+Razer,Netbook,15.6,8.0,1.09,120433,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Samsung,2 in 1 Convertible,12.5,16.0,2.43,122092,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Lenovo,Gaming,11.6,8.0,3.46,17147,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Apple,2 in 1 Convertible,17.3,4.0,2.61,244991,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Apple,Workstation,12.5,8.0,3.75,245323,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Toshiba,Workstation,11.6,8.0,2.26,53445,Intel Core i7,1TB HDD,Intel UHD Graphics 620,Windows 10
+Apple,Workstation,12.5,16.0,3.31,199875,Intel Pentium,512GB SSD,Intel UHD Graphics 620,Chrome OS
+HP,Notebook,15.6,16.0,1.61,207180,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Linux
+MSI,Gaming,17.3,32.0,3.75,121170,Intel Core i5,256GB SSD,AMD Radeon R5,Linux
+Dell,Netbook,11.6,16.0,2.97,148085,Intel Core i3,512GB SSD,Intel HD Graphics 620,Chrome OS
+Toshiba,Netbook,13.3,16.0,1.68,100617,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Dell,Notebook,17.3,4.0,2.01,228482,Intel Core i5,512GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Samsung,2 in 1 Convertible,13.3,4.0,3.74,68502,AMD E-Series,256GB SSD +  1TB HDD,,macOS
+Dell,Notebook,12.5,16.0,2.73,132116,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Dell,2 in 1 Convertible,14.0,8.0,1.72,52755,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Toshiba,2 in 1 Convertible,17.3,16.0,4.58,154805,Intel Core i3,1TB HDD,AMD Radeon R5,Windows 10
+Lenovo,Ultrabook,12.5,8.0,3.62,24479,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Acer,Netbook,13.3,4.0,4.54,90361,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Apple,Workstation,15.6,,2.52,167376,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,2 in 1 Convertible,15.6,8.0,2.71,181766,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,No OS
+HP,Ultrabook,14.0,4.0,4.31,139232,Intel Core i3,256GB SSD +  1TB HDD,AMD Radeon R5,Linux
+Toshiba,Netbook,17.3,16.0,2.9,120586,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+HP,Workstation,17.3,4.0,3.59,96171,Intel Core i5,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+MSI,2 in 1 Convertible,17.3,16.0,1.86,129151,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,macOS
+MSI,2 in 1 Convertible,12.5,8.0,2.6,101296,Intel Core i3,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+HP,Notebook,14.0,8.0,1.37,155562,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Toshiba,Notebook,17.3,8.0,1.68,167324,Intel Pentium,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+HP,Netbook,12.5,16.0,0.9,152934,AMD A9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Apple,Workstation,15.6,8.0,1.05,84959,AMD A9,512GB SSD,Intel UHD Graphics 620,Linux
+Razer,2 in 1 Convertible,13.3,16.0,4.61,156522,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Asus,Netbook,12.5,4.0,1.82,71022,AMD E-Series,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Dell,Netbook,15.6,16.0,3.42,76991,Intel Core i3,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Asus,Gaming,15.6,8.0,4.09,186999,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Toshiba,Notebook,13.3,16.0,2.99,246449,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Asus,Workstation,15.6,16.0,1.48,234162,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,No OS
+MSI,2 in 1 Convertible,14.0,32.0,3.67,64853,Intel Core i5,256GB SSD,Intel UHD Graphics 620,macOS
+Samsung,Netbook,13.3,8.0,3.18,46826,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Dell,2 in 1 Convertible,15.6,4.0,3.68,57879,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,macOS
+Acer,Gaming,11.6,4.0,3.83,203337,Intel Core i3,512GB SSD,AMD Radeon R5,Linux
+Toshiba,Workstation,12.5,16.0,4.61,87361,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1060,Linux
+Dell,Netbook,15.6,16.0,3.08,92990,Intel Core i5,512GB SSD,Intel HD Graphics 620,No OS
+Asus,2 in 1 Convertible,14.0,16.0,2.2,104787,Intel Core i7,256GB SSD,AMD Radeon R5,Windows 10
+MSI,Notebook,17.3,8.0,3.36,232256,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Lenovo,Gaming,15.6,8.0,1.16,55736,Intel Core i7,512GB SSD +  1TB HDD,AMD Radeon R5,Linux
+Razer,Workstation,17.3,4.0,4.31,39530,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1060,macOS
+Acer,Gaming,11.6,64.0,1.35,224124,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Razer,Notebook,15.6,16.0,2.15,193130,Intel Pentium,256GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Dell,Workstation,13.3,32.0,4.0,121080,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Windows 10
+MSI,Gaming,17.3,8.0,3.17,220166,AMD A9,1TB HDD,AMD Radeon R5,Linux
+MSI,Ultrabook,11.6,16.0,2.4,89255,Intel Core i3,1TB HDD,AMD Radeon R5,Linux
+Asus,Notebook,13.3,16.0,2.7,150958,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,Notebook,13.3,8.0,4.15,141598,Intel Core i9,1TB HDD,Intel HD Graphics 620,Windows 10
+Asus,Notebook,13.3,16.0,2.19,239793,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,Ultrabook,13.3,32.0,4.2,133623,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Apple,Ultrabook,15.6,32.0,1.23,52387,Intel Core i5,256GB SSD,AMD Radeon R5,Chrome OS
+Acer,2 in 1 Convertible,12.5,16.0,3.85,167647,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+Asus,Netbook,15.6,8.0,4.12,127260,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Lenovo,Gaming,15.6,8.0,1.59,185715,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+HP,2 in 1 Convertible,11.6,64.0,2.54,156172,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,macOS
+HP,Gaming,11.6,4.0,1.53,206428,Intel Pentium,512GB SSD,AMD Radeon R5,No OS
+Asus,Netbook,12.5,16.0,3.59,153928,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Asus,Ultrabook,11.6,16.0,2.93,184241,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Razer,Netbook,14.0,16.0,3.31,174876,Intel Core i5,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+Acer,Ultrabook,12.5,64.0,1.65,181862,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Chrome OS
+Asus,Netbook,11.6,8.0,1.7,45988,AMD E-Series,1TB HDD,Intel HD Graphics 620,Linux
+Razer,2 in 1 Convertible,12.5,8.0,1.06,91448,Intel Core i9,256GB SSD,Intel UHD Graphics 620,Windows 10
+Apple,Workstation,15.6,4.0,2.12,184578,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1060,Windows 10
+MSI,2 in 1 Convertible,15.6,8.0,3.03,128430,Intel Core i3,1TB HDD,Intel UHD Graphics 620,Linux
+MSI,Gaming,12.5,8.0,4.16,233976,Intel Pentium,512GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+Apple,2 in 1 Convertible,14.0,8.0,3.43,213378,AMD E-Series,256GB SSD,AMD Radeon R5,Linux
+Toshiba,Notebook,14.0,16.0,2.55,158377,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Razer,Gaming,12.5,32.0,4.52,156041,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Razer,Netbook,11.6,8.0,3.63,27404,Intel Core i3,512GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Apple,Gaming,17.3,8.0,4.43,155061,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Lenovo,Workstation,14.0,32.0,2.9,211377,Intel Core i5,512GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Samsung,Ultrabook,13.3,4.0,1.88,182055,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Dell,Netbook,15.6,4.0,1.1,185534,Intel Pentium,256GB SSD,Intel UHD Graphics 620,Linux
+Apple,Gaming,12.5,8.0,3.66,34360,AMD A9,512GB SSD,Intel UHD Graphics 620,Linux
+Asus,Netbook,13.3,16.0,1.36,100657,Intel Core i7,1TB HDD,Intel HD Graphics 620,macOS
+Asus,Netbook,12.5,8.0,2.05,172359,AMD A9,2TB HDD,AMD Radeon R5,Windows 10
+Acer,Netbook,15.6,64.0,2.92,211544,Intel Pentium,1TB HDD,Intel HD Graphics 620,macOS
+Apple,Ultrabook,15.6,8.0,3.04,207385,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Acer,2 in 1 Convertible,14.0,16.0,3.18,49160,AMD A9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Apple,Netbook,14.0,8.0,1.53,21789,Intel Core i7,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Razer,Notebook,13.3,,2.34,173253,Intel Core i7,1TB HDD,Intel HD Graphics 620,Windows 10
+Dell,Workstation,12.5,16.0,3.25,160457,Intel Core i9,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Razer,Ultrabook,15.6,16.0,4.59,97597,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Samsung,Gaming,13.3,16.0,3.66,80641,Intel Core i3,512GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+MSI,Ultrabook,17.3,16.0,4.41,59247,AMD A9,2TB HDD,Nvidia GeForce GTX 1060,No OS
+HP,Gaming,13.3,32.0,,101673,AMD A9,1TB HDD,Intel UHD Graphics 620,macOS
+Apple,Ultrabook,11.6,16.0,3.15,246322,Intel Core i9,2TB HDD,Intel HD Graphics 620,Windows 10
+Samsung,Gaming,13.3,16.0,1.63,20544,Intel Core i5,256GB SSD,Intel HD Graphics 620,macOS
+MSI,Netbook,11.6,4.0,3.43,159347,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1050,Linux
+Toshiba,2 in 1 Convertible,11.6,4.0,3.27,78248,Intel Core i7,2TB HDD,,Linux
+Dell,Gaming,11.6,8.0,3.19,49550,Intel Core i5,256GB SSD,Intel HD Graphics 620,Windows 10
+Acer,Gaming,17.3,16.0,2.76,68693,Intel Core i7,256GB SSD,Intel UHD Graphics 620,No OS
+Acer,Notebook,13.3,8.0,2.91,143924,Intel Core i5,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Razer,Gaming,13.3,8.0,2.17,165713,Intel Core i9,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Asus,Notebook,17.3,32.0,2.87,217821,Intel Core i9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+MSI,Workstation,15.6,32.0,1.65,95021,AMD E-Series,256GB SSD,Intel UHD Graphics 620,Linux
+Toshiba,Netbook,14.0,32.0,3.96,30605,Intel Core i5,512GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Samsung,Notebook,13.3,8.0,1.61,249245,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1060,macOS
+Dell,2 in 1 Convertible,14.0,16.0,1.22,65713,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,No OS
+MSI,Netbook,12.5,8.0,2.56,166462,Intel Core i7,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Toshiba,Notebook,12.5,8.0,3.4,90403,Intel Pentium,1TB HDD,AMD Radeon R5,macOS
+HP,Netbook,17.3,8.0,2.56,73466,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Apple,Netbook,12.5,8.0,1.95,18981,Intel Core i3,256GB SSD,AMD Radeon R5,macOS
+Acer,Netbook,12.5,8.0,3.02,155565,Intel Core i3,256GB SSD,AMD Radeon R5,Chrome OS
+Samsung,Workstation,15.6,16.0,,217290,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Acer,2 in 1 Convertible,15.6,,4.44,217390,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Samsung,Ultrabook,15.6,16.0,4.41,130631,Intel Core i3,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+Razer,Ultrabook,12.5,16.0,2.81,134238,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,Linux
+Asus,Notebook,17.3,8.0,2.15,110335,Intel Core i3,2TB HDD,Intel HD Graphics 620,Linux
+Samsung,Netbook,11.6,8.0,3.7,122441,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,No OS
+Acer,Notebook,11.6,8.0,1.04,31984,AMD E-Series,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Razer,Workstation,14.0,16.0,2.7,140580,AMD A9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+Samsung,Workstation,11.6,8.0,2.18,126316,AMD A9,512GB SSD,Intel UHD Graphics 620,Chrome OS
+HP,Gaming,11.6,8.0,4.4,168832,Intel Core i7,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Asus,Workstation,15.6,4.0,0.95,237601,Intel Pentium,256GB SSD,AMD Radeon R5,Windows 10
+Samsung,Gaming,15.6,16.0,3.0,147596,Intel Core i9,512GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Razer,2 in 1 Convertible,12.5,32.0,3.71,133454,Intel Core i5,1TB HDD,AMD Radeon R5,Linux
+MSI,Notebook,14.0,8.0,2.74,64402,Intel Core i7,1TB HDD,Intel UHD Graphics 620,Windows 10
+Lenovo,2 in 1 Convertible,13.3,16.0,1.22,106656,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Toshiba,Workstation,14.0,16.0,4.6,80614,Intel Core i9,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Lenovo,2 in 1 Convertible,14.0,32.0,2.87,181963,Intel Core i9,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Lenovo,2 in 1 Convertible,17.3,16.0,3.23,106009,Intel Core i7,256GB SSD,Intel UHD Graphics 620,Linux
+Dell,2 in 1 Convertible,12.5,16.0,1.8,185904,Intel Core i7,256GB SSD +  1TB HDD,,Chrome OS
+HP,Workstation,17.3,16.0,2.74,60836,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,macOS
+MSI,Netbook,14.0,32.0,2.53,220025,Intel Core i5,512GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Apple,2 in 1 Convertible,14.0,8.0,1.18,159434,Intel Core i7,512GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Samsung,Gaming,14.0,8.0,1.3,212817,AMD A9,256GB SSD,AMD Radeon R5,Chrome OS
+Toshiba,Workstation,11.6,4.0,4.08,183993,Intel Core i7,512GB SSD,Intel UHD Graphics 620,No OS
+Asus,2 in 1 Convertible,17.3,16.0,1.81,216506,Intel Core i3,256GB SSD,Intel HD Graphics 620,Chrome OS
+MSI,Netbook,14.0,16.0,1.64,164634,Intel Core i7,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Acer,Workstation,15.6,4.0,2.82,210582,Intel Core i9,1TB HDD,Intel UHD Graphics 620,Linux
+Apple,Ultrabook,12.5,16.0,3.82,146049,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Dell,Netbook,12.5,8.0,1.14,91407,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10
+Dell,Gaming,15.6,4.0,3.09,22610,Intel Core i7,2TB HDD,AMD Radeon R5,No OS
+MSI,2 in 1 Convertible,12.5,64.0,1.35,124381,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Razer,Ultrabook,11.6,8.0,1.04,238990,Intel Core i3,512GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Lenovo,Ultrabook,11.6,4.0,1.1,30791,Intel Core i5,2TB HDD,Intel UHD Graphics 620,Windows 10
+Acer,Workstation,13.3,16.0,4.07,73047,Intel Core i7,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+Dell,Ultrabook,13.3,16.0,1.35,246920,Intel Core i5,512GB SSD,Intel HD Graphics 620,Linux
+Toshiba,Gaming,13.3,4.0,1.07,249898,Intel Core i3,512GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+Dell,Gaming,12.5,16.0,2.56,213978,Intel Core i7,256GB SSD,,Linux
+Asus,Notebook,11.6,16.0,4.11,165737,AMD E-Series,512GB SSD +  1TB HDD,AMD Radeon R5,Linux
+Samsung,Gaming,11.6,4.0,1.9,85246,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Dell,Netbook,11.6,8.0,2.5,211936,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Asus,Ultrabook,15.6,16.0,1.05,192523,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+MSI,Gaming,11.6,8.0,2.61,249955,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+MSI,Workstation,15.6,32.0,3.09,101148,AMD A9,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Apple,Notebook,13.3,16.0,3.07,60890,Intel Core i9,512GB SSD,Intel UHD Graphics 620,No OS
+Dell,Ultrabook,13.3,64.0,2.16,152866,AMD A9,512GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Toshiba,Notebook,12.5,8.0,2.1,47888,Intel Pentium,256GB SSD,Intel UHD Graphics 620,No OS
+Dell,Ultrabook,13.3,,1.31,152821,AMD A9,256GB SSD,AMD Radeon R5,Windows 10
+Toshiba,Workstation,12.5,8.0,2.29,61531,Intel Core i7,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+HP,Notebook,14.0,8.0,1.28,130652,Intel Core i5,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Apple,2 in 1 Convertible,14.0,4.0,3.81,35608,Intel Pentium,512GB SSD,Intel UHD Graphics 620,Chrome OS
+HP,Netbook,17.3,4.0,4.57,95986,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1060,No OS
+Dell,Netbook,12.5,16.0,4.59,215283,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Apple,Ultrabook,17.3,8.0,4.19,98996,Intel Pentium,256GB SSD,,Windows 10
+HP,2 in 1 Convertible,17.3,8.0,3.18,71017,AMD A9,256GB SSD +  1TB HDD,,No OS
+Lenovo,Notebook,14.0,16.0,3.56,72676,AMD E-Series,2TB HDD,Intel UHD Graphics 620,Windows 10
+Dell,2 in 1 Convertible,12.5,8.0,1.98,26560,Intel Core i3,512GB SSD,AMD Radeon R5,Windows 10 S
+HP,2 in 1 Convertible,14.0,16.0,3.3,200473,AMD A9,256GB SSD,Intel UHD Graphics 620,Windows 10
+Lenovo,Notebook,17.3,,2.63,65468,Intel Core i9,256GB SSD,Intel HD Graphics 620,Windows 10
+Lenovo,Workstation,12.5,16.0,2.73,178535,Intel Core i9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,macOS
+MSI,2 in 1 Convertible,17.3,16.0,,177735,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Dell,2 in 1 Convertible,11.6,8.0,1.97,214778,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Lenovo,Workstation,12.5,8.0,2.11,204845,Intel Pentium,512GB SSD,AMD Radeon R5,Chrome OS
+MSI,2 in 1 Convertible,12.5,8.0,4.41,48123,Intel Core i7,512GB SSD,Intel UHD Graphics 620,Linux
+HP,2 in 1 Convertible,17.3,16.0,1.11,109346,Intel Core i7,2TB HDD,Intel UHD Graphics 620,macOS
+Asus,2 in 1 Convertible,11.6,8.0,2.75,155790,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Dell,Netbook,15.6,8.0,4.37,208709,Intel Pentium,512GB SSD,AMD Radeon R5,No OS
+Apple,Gaming,14.0,4.0,3.22,15028,Intel Core i5,256GB SSD +  1TB HDD,Intel UHD Graphics 620,No OS
+Toshiba,Workstation,17.3,8.0,,208442,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Toshiba,2 in 1 Convertible,12.5,8.0,1.85,62599,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+HP,Netbook,14.0,16.0,2.2,163469,Intel Core i3,256GB SSD,Nvidia GeForce GTX 1050,macOS
+Razer,Workstation,14.0,8.0,4.14,60406,Intel Core i3,1TB HDD,Intel HD Graphics 620,Windows 10
+Razer,Ultrabook,14.0,8.0,3.03,62657,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+HP,Ultrabook,15.6,16.0,2.86,82560,AMD E-Series,1TB HDD,AMD Radeon R5,No OS
+Lenovo,2 in 1 Convertible,13.3,16.0,1.28,119143,AMD E-Series,512GB SSD,Intel UHD Graphics 620,Windows 10
+Dell,Netbook,17.3,8.0,0.96,159575,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Chrome OS
+Toshiba,Netbook,13.3,8.0,4.56,69943,Intel Core i7,512GB SSD,Intel HD Graphics 620,Windows 10 S
+Toshiba,Workstation,13.3,8.0,2.33,90839,Intel Pentium,1TB HDD,Intel UHD Graphics 620,Linux
+Lenovo,Workstation,13.3,32.0,3.19,97674,Intel Core i9,512GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Toshiba,Netbook,14.0,4.0,1.2,40345,Intel Core i7,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Apple,Workstation,11.6,32.0,3.5,65390,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Dell,Netbook,14.0,16.0,4.44,241113,AMD E-Series,1TB HDD,Intel HD Graphics 620,Windows 10 S
+Samsung,Gaming,14.0,16.0,3.09,74557,Intel Core i3,512GB SSD,Intel UHD Graphics 620,macOS
+Toshiba,Netbook,12.5,4.0,1.38,211126,Intel Core i3,256GB SSD,Intel HD Graphics 620,Chrome OS
+HP,Ultrabook,12.5,8.0,3.11,16906,AMD A9,512GB SSD,Nvidia GeForce GTX 1050,macOS
+Apple,Workstation,13.3,,3.81,186239,Intel Core i7,256GB SSD,AMD Radeon R5,Windows 10 S
+Toshiba,Netbook,14.0,,2.44,22961,Intel Core i3,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Apple,Netbook,13.3,16.0,4.24,172212,Intel Core i7,512GB SSD,AMD Radeon R5,Windows 10
+MSI,Workstation,12.5,64.0,3.36,134289,Intel Pentium,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Samsung,Gaming,11.6,16.0,4.32,204773,AMD A9,1TB HDD,AMD Radeon R5,Linux
+Acer,Gaming,17.3,16.0,3.27,92567,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,No OS
+HP,Workstation,13.3,4.0,1.4,95664,Intel Core i7,2TB HDD,AMD Radeon R5,Windows 10
+HP,Notebook,11.6,8.0,2.08,96199,Intel Pentium,1TB HDD,Intel HD Graphics 620,Chrome OS
+Dell,Workstation,17.3,4.0,1.67,114764,Intel Core i7,256GB SSD,AMD Radeon R5,No OS
+Apple,Workstation,15.6,16.0,4.35,227290,Intel Core i7,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Lenovo,Gaming,13.3,32.0,3.79,137357,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+HP,Gaming,13.3,16.0,3.47,95729,Intel Core i5,512GB SSD,AMD Radeon R5,Windows 10 S
+Apple,Workstation,15.6,4.0,2.04,174633,AMD E-Series,512GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Apple,Workstation,15.6,8.0,1.6,65568,Intel Core i7,256GB SSD,AMD Radeon R5,No OS
+Asus,Workstation,13.3,16.0,3.77,124349,Intel Core i7,256GB SSD,Intel UHD Graphics 620,No OS
+Asus,Gaming,15.6,8.0,2.7,88302,Intel Core i7,256GB SSD,AMD Radeon R5,No OS
+Acer,Workstation,14.0,16.0,,241452,Intel Core i5,256GB SSD,Intel UHD Graphics 620,macOS
+MSI,Workstation,17.3,16.0,3.24,109968,Intel Pentium,512GB SSD,Intel UHD Graphics 620,No OS
+Acer,2 in 1 Convertible,17.3,16.0,1.05,175576,Intel Core i9,1TB HDD,Nvidia GeForce GTX 1060,No OS
+Toshiba,Notebook,17.3,8.0,2.14,131116,Intel Core i9,2TB HDD,Intel HD Graphics 620,Windows 10 S
+Lenovo,Ultrabook,14.0,8.0,2.68,52146,AMD A9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Toshiba,Notebook,15.6,4.0,1.46,55297,Intel Core i3,512GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Razer,2 in 1 Convertible,11.6,8.0,4.64,101394,Intel Core i5,256GB SSD,,Windows 10
+Toshiba,Ultrabook,15.6,8.0,1.69,142173,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1050,macOS
+Dell,Workstation,13.3,16.0,1.4,140942,Intel Core i7,512GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Toshiba,2 in 1 Convertible,12.5,16.0,1.67,214679,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Workstation,17.3,4.0,3.82,31939,Intel Core i5,256GB SSD,Intel UHD Graphics 620,No OS
+HP,Gaming,15.6,8.0,2.52,236539,Intel Core i5,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+HP,Netbook,11.6,8.0,3.05,196787,Intel Core i5,256GB SSD,,Windows 10
+Asus,2 in 1 Convertible,13.3,8.0,0.98,59460,AMD A9,2TB HDD,AMD Radeon R5,Windows 10 S
+Lenovo,Gaming,14.0,16.0,1.03,212648,AMD E-Series,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Lenovo,2 in 1 Convertible,14.0,4.0,2.59,214294,Intel Core i3,2TB HDD,Intel UHD Graphics 620,No OS
+Dell,2 in 1 Convertible,11.6,8.0,4.0,158738,AMD A9,256GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Acer,Gaming,13.3,8.0,4.26,77119,AMD A9,1TB HDD,AMD Radeon R5,Windows 10 S
+Asus,Ultrabook,17.3,32.0,1.23,181393,AMD E-Series,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Razer,Notebook,15.6,16.0,2.95,147851,AMD A9,512GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Lenovo,Workstation,13.3,8.0,4.37,159258,Intel Core i5,512GB SSD,Intel UHD Graphics 620,macOS
+HP,2 in 1 Convertible,14.0,16.0,2.37,162531,Intel Core i5,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Toshiba,Workstation,11.6,16.0,4.05,232318,Intel Pentium,256GB SSD,AMD Radeon R5,Chrome OS
+Toshiba,Netbook,11.6,64.0,1.41,233827,Intel Core i7,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Asus,Gaming,15.6,8.0,4.45,20057,AMD A9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Acer,Workstation,11.6,32.0,,206735,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Acer,Gaming,11.6,32.0,4.48,164805,Intel Core i3,256GB SSD,Intel HD Graphics 620,macOS
+MSI,Workstation,13.3,32.0,3.47,34157,Intel Core i9,1TB HDD,AMD Radeon R5,macOS
+Samsung,Notebook,17.3,16.0,2.28,50030,Intel Core i5,512GB SSD +  1TB HDD,Intel HD Graphics 620,macOS
+Lenovo,Notebook,15.6,16.0,4.47,165685,Intel Pentium,256GB SSD +  1TB HDD,AMD Radeon R5,Chrome OS
+Acer,Notebook,13.3,8.0,1.95,123612,Intel Core i3,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+HP,Notebook,17.3,16.0,2.16,130080,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Asus,Notebook,13.3,16.0,3.56,98028,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Razer,Notebook,12.5,16.0,3.81,232354,Intel Core i9,1TB HDD,Intel UHD Graphics 620,Windows 10 S
+MSI,Gaming,13.3,8.0,4.43,151260,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Apple,2 in 1 Convertible,11.6,16.0,1.68,44680,Intel Core i5,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Dell,Workstation,17.3,16.0,3.93,249433,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Razer,Notebook,15.6,4.0,3.71,206191,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10
+Apple,Gaming,15.6,16.0,1.14,117302,Intel Core i9,1TB HDD,Intel UHD Graphics 620,No OS
+Toshiba,Gaming,17.3,16.0,2.37,220472,Intel Core i3,256GB SSD,Intel HD Graphics 620,Linux
+Dell,Gaming,11.6,16.0,1.97,201790,Intel Pentium,2TB HDD,AMD Radeon R5,Chrome OS
+Lenovo,2 in 1 Convertible,14.0,8.0,2.06,51445,AMD E-Series,256GB SSD +  1TB HDD,AMD Radeon R5,Windows 10 S
+HP,Workstation,13.3,8.0,4.64,20796,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Dell,2 in 1 Convertible,11.6,32.0,3.34,62218,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Samsung,Ultrabook,12.5,8.0,3.63,185203,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,Gaming,17.3,16.0,4.61,154195,Intel Pentium,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Lenovo,Ultrabook,13.3,8.0,2.33,154294,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Samsung,Netbook,15.6,16.0,3.95,39074,AMD E-Series,2TB HDD,AMD Radeon R5,No OS
+Toshiba,Notebook,14.0,8.0,2.55,131088,AMD E-Series,256GB SSD,Intel HD Graphics 620,Windows 10
+Samsung,Notebook,12.5,16.0,4.2,175897,Intel Core i5,512GB SSD,Intel HD Graphics 620,Windows 10 S
+MSI,2 in 1 Convertible,15.6,8.0,1.59,51839,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,No OS
+MSI,Workstation,17.3,4.0,4.5,122112,Intel Pentium,256GB SSD +  1TB HDD,Intel HD Graphics 620,Linux
+Asus,Ultrabook,13.3,8.0,1.73,142514,Intel Core i9,1TB HDD,Intel HD Graphics 620,Chrome OS
+Razer,Workstation,17.3,4.0,2.14,83322,AMD A9,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Linux
+Razer,2 in 1 Convertible,13.3,64.0,3.77,71321,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Lenovo,Notebook,11.6,64.0,2.4,245246,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,Windows 10
+Toshiba,Workstation,14.0,8.0,3.21,248572,Intel Core i3,1TB HDD,AMD Radeon R5,macOS
+Acer,Workstation,11.6,16.0,2.59,125100,Intel Core i5,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,Notebook,11.6,8.0,3.72,172060,Intel Core i7,256GB SSD,AMD Radeon R5,macOS
+Lenovo,Ultrabook,17.3,16.0,1.77,50507,AMD A9,1TB HDD,Intel UHD Graphics 620,Linux
+Acer,Notebook,14.0,16.0,1.12,114244,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Razer,Workstation,13.3,32.0,2.04,244716,AMD A9,2TB HDD,Intel UHD Graphics 620,macOS
+Asus,Ultrabook,13.3,8.0,2.7,140788,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Windows 10
+Samsung,Ultrabook,12.5,16.0,1.54,110251,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,Notebook,15.6,8.0,2.25,38806,AMD E-Series,256GB SSD,Intel UHD Graphics 620,Linux
+Lenovo,Workstation,12.5,64.0,2.42,145364,Intel Core i7,1TB HDD,Intel HD Graphics 620,No OS
+Dell,2 in 1 Convertible,12.5,4.0,1.12,51901,AMD E-Series,256GB SSD,Intel HD Graphics 620,Windows 10
+Acer,Workstation,13.3,16.0,3.12,163115,Intel Core i3,256GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Samsung,Gaming,17.3,16.0,4.26,221833,Intel Core i7,256GB SSD,Intel HD Graphics 620,Windows 10 S
+MSI,Netbook,11.6,16.0,1.48,155824,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Razer,2 in 1 Convertible,11.6,4.0,3.17,215065,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Toshiba,Ultrabook,11.6,32.0,3.43,188688,Intel Core i3,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Acer,2 in 1 Convertible,14.0,8.0,2.49,67127,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Razer,Ultrabook,13.3,16.0,3.56,220849,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+MSI,Ultrabook,17.3,8.0,2.46,15453,Intel Core i3,256GB SSD,AMD Radeon R5,No OS
+Acer,2 in 1 Convertible,14.0,8.0,2.82,90432,Intel Core i5,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10 S
+Samsung,Ultrabook,15.6,16.0,0.93,137872,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1060,Linux
+MSI,Ultrabook,17.3,8.0,3.53,102362,AMD E-Series,256GB SSD,Intel HD Graphics 620,No OS
+Apple,Gaming,12.5,8.0,3.41,25976,Intel Core i7,512GB SSD +  1TB HDD,Intel HD Graphics 620,Chrome OS
+Lenovo,Workstation,17.3,8.0,1.05,129176,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Samsung,Workstation,17.3,8.0,2.3,114122,Intel Core i7,512GB SSD,AMD Radeon R5,No OS
+Acer,Netbook,11.6,16.0,4.62,85404,AMD E-Series,256GB SSD,Intel HD Graphics 620,macOS
+Toshiba,Netbook,17.3,32.0,2.5,96932,Intel Core i5,512GB SSD,Intel UHD Graphics 620,Linux
+Razer,Gaming,12.5,4.0,2.81,112170,AMD A9,256GB SSD,Intel UHD Graphics 620,No OS
+Dell,Netbook,12.5,,4.36,92707,Intel Core i9,1TB HDD,,Chrome OS
+Razer,2 in 1 Convertible,13.3,4.0,3.63,235719,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Acer,Notebook,17.3,4.0,3.11,179760,Intel Core i3,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Linux
+Razer,Notebook,11.6,16.0,3.93,232912,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1060,macOS
+Lenovo,Notebook,17.3,16.0,4.18,108789,AMD E-Series,512GB SSD,AMD Radeon R5,No OS
+MSI,Gaming,15.6,8.0,2.64,111516,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1050,No OS
+Dell,Gaming,15.6,8.0,2.71,148089,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+HP,Ultrabook,11.6,4.0,2.37,22957,Intel Pentium,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Acer,Notebook,13.3,16.0,4.57,122724,Intel Core i5,1TB HDD,Intel UHD Graphics 620,Chrome OS
+Asus,2 in 1 Convertible,13.3,64.0,3.55,150864,Intel Core i9,512GB SSD,Intel UHD Graphics 620,No OS
+HP,Netbook,12.5,4.0,1.22,202054,Intel Core i9,512GB SSD,Intel HD Graphics 620,No OS
+Razer,2 in 1 Convertible,12.5,8.0,4.18,28237,Intel Core i9,512GB SSD +  1TB HDD,AMD Radeon R5,No OS
+Acer,Netbook,14.0,32.0,2.73,66586,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,macOS
+Apple,Notebook,11.6,32.0,1.16,227859,Intel Core i5,512GB SSD,AMD Radeon R5,Windows 10
+Asus,Notebook,17.3,8.0,2.99,34252,Intel Core i3,512GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Dell,Notebook,11.6,4.0,2.49,156779,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1060,Linux
+Toshiba,Gaming,14.0,,4.24,180278,Intel Pentium,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+Apple,Netbook,12.5,16.0,1.68,240348,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+HP,Gaming,11.6,8.0,4.04,18543,Intel Core i7,2TB HDD,AMD Radeon R5,Linux
+MSI,Gaming,11.6,,3.02,190207,Intel Core i9,1TB HDD,AMD Radeon R5,Chrome OS
+Lenovo,Workstation,12.5,16.0,1.11,119647,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Toshiba,2 in 1 Convertible,14.0,4.0,4.59,50031,AMD A9,256GB SSD,Intel UHD Graphics 620,Windows 10
+Apple,2 in 1 Convertible,12.5,16.0,2.85,189001,AMD E-Series,2TB HDD,Intel HD Graphics 620,Windows 10
+MSI,Ultrabook,13.3,8.0,2.01,80747,Intel Core i5,2TB HDD,AMD Radeon R5,Chrome OS
+MSI,Gaming,17.3,4.0,2.68,203923,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1050,Linux
+Acer,Netbook,12.5,16.0,4.16,70311,Intel Core i3,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Apple,Workstation,14.0,8.0,2.06,80867,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+Dell,Workstation,15.6,64.0,1.63,103780,Intel Pentium,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Chrome OS
+Razer,2 in 1 Convertible,13.3,16.0,1.39,72196,AMD E-Series,256GB SSD,Intel HD Graphics 620,macOS
+Asus,Gaming,15.6,8.0,2.03,88705,Intel Core i9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Asus,Ultrabook,12.5,16.0,3.86,72894,Intel Core i7,1TB HDD,Nvidia GeForce GTX 1060,No OS
+HP,Gaming,13.3,8.0,2.69,102640,Intel Core i5,256GB SSD,Nvidia GeForce GTX 1060,No OS
+HP,Notebook,17.3,32.0,1.76,29591,Intel Pentium,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+Asus,Gaming,12.5,8.0,1.53,112247,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Dell,Notebook,17.3,16.0,2.16,194965,Intel Core i7,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Chrome OS
+Lenovo,Notebook,11.6,4.0,4.47,15727,Intel Pentium,256GB SSD,Nvidia GeForce GTX 1060,Windows 10 S
+Samsung,Ultrabook,15.6,8.0,2.2,167431,AMD A9,1TB HDD,Nvidia GeForce GTX 1060,Linux
+Razer,Netbook,13.3,16.0,4.65,58822,AMD A9,1TB HDD,Nvidia GeForce GTX 1050,No OS
+Lenovo,2 in 1 Convertible,17.3,16.0,2.74,247619,AMD E-Series,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+Acer,Gaming,14.0,8.0,1.58,118399,Intel Core i9,256GB SSD,Intel UHD Graphics 620,macOS
+Samsung,Notebook,17.3,8.0,4.29,127113,Intel Core i7,2TB HDD,Intel UHD Graphics 620,Windows 10 S
+Samsung,Gaming,14.0,16.0,2.65,234606,AMD A9,512GB SSD,AMD Radeon R5,Chrome OS
+Apple,Netbook,12.5,32.0,3.6,145431,AMD E-Series,256GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10 S
+Dell,2 in 1 Convertible,13.3,4.0,4.64,157001,AMD A9,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Dell,Netbook,17.3,8.0,1.09,143588,AMD A9,256GB SSD,Intel HD Graphics 620,Windows 10 S
+Samsung,2 in 1 Convertible,17.3,8.0,1.27,75091,Intel Pentium,512GB SSD,Intel HD Graphics 620,macOS
+Apple,Workstation,13.3,32.0,3.64,226450,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1050,Chrome OS
+Razer,2 in 1 Convertible,17.3,4.0,1.97,169591,AMD A9,512GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10
+Samsung,Ultrabook,14.0,8.0,1.6,163465,Intel Core i3,1TB HDD,Intel HD Graphics 620,Windows 10
+Toshiba,Netbook,17.3,16.0,1.05,180390,Intel Pentium,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+HP,Notebook,15.6,4.0,0.98,220603,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,macOS
+HP,Workstation,12.5,8.0,3.84,109192,AMD E-Series,256GB SSD,AMD Radeon R5,No OS
+Lenovo,Ultrabook,11.6,8.0,1.41,194006,AMD E-Series,512GB SSD,Intel UHD Graphics 620,Windows 10 S
+Acer,Gaming,14.0,8.0,2.68,125805,Intel Core i9,2TB HDD,Nvidia GeForce GTX 1060,Chrome OS
+HP,Netbook,15.6,8.0,3.2,227175,Intel Core i7,1TB HDD,AMD Radeon R5,Chrome OS
+MSI,Notebook,12.5,16.0,2.53,174912,Intel Core i7,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Lenovo,2 in 1 Convertible,13.3,8.0,1.0,133089,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1050,Linux
+HP,Notebook,14.0,16.0,3.88,104367,Intel Core i9,1TB HDD,AMD Radeon R5,Windows 10
+Acer,Gaming,11.6,16.0,0.94,28265,Intel Core i7,2TB HDD,AMD Radeon R5,Linux
+Dell,Workstation,12.5,16.0,3.8,151496,Intel Core i5,512GB SSD,Nvidia GeForce GTX 1050,Linux
+Dell,Workstation,11.6,8.0,4.29,166697,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10
+Razer,Netbook,13.3,4.0,2.54,94622,AMD E-Series,512GB SSD +  1TB HDD,Intel HD Graphics 620,No OS
+Samsung,Workstation,13.3,8.0,2.94,175259,Intel Core i5,1TB HDD,Intel UHD Graphics 620,Windows 10
+Toshiba,Netbook,14.0,8.0,2.71,50929,Intel Core i9,2TB HDD,AMD Radeon R5,Linux
+Dell,Netbook,17.3,8.0,2.38,76892,AMD A9,512GB SSD,AMD Radeon R5,Chrome OS
+Apple,Netbook,13.3,16.0,4.27,166611,AMD A9,256GB SSD,Nvidia GeForce GTX 1050,Linux
+HP,2 in 1 Convertible,12.5,4.0,4.3,71630,AMD E-Series,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10 S
+Apple,Ultrabook,17.3,4.0,2.18,236711,AMD A9,256GB SSD,Intel UHD Graphics 620,Windows 10 S
+Acer,Netbook,15.6,8.0,3.24,239482,Intel Core i7,512GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Dell,Netbook,11.6,16.0,,155287,Intel Core i9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS
+Toshiba,Ultrabook,17.3,8.0,4.56,185457,Intel Core i5,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,macOS
+Acer,Notebook,11.6,16.0,2.83,146025,Intel Core i7,2TB HDD,Nvidia GeForce GTX 1060,Windows 10 S
+MSI,Netbook,17.3,8.0,2.62,102580,AMD A9,256GB SSD,Nvidia GeForce GTX 1060,Chrome OS
+MSI,2 in 1 Convertible,15.6,32.0,1.96,92462,Intel Pentium,2TB HDD,Intel UHD Graphics 620,No OS
+Apple,Workstation,13.3,32.0,4.54,128396,Intel Core i5,256GB SSD +  1TB HDD,AMD Radeon R5,macOS
+Samsung,Workstation,15.6,,1.44,112037,Intel Core i7,256GB SSD,Nvidia GeForce GTX 1060,macOS
+Lenovo,Gaming,13.3,8.0,3.1,110310,Intel Core i9,256GB SSD,Nvidia GeForce GTX 1050,Windows 10 S
+Samsung,Gaming,13.3,8.0,1.97,171080,AMD E-Series,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Razer,Workstation,11.6,,1.96,63928,Intel Core i7,512GB SSD,Intel UHD Graphics 620,Windows 10
+Samsung,Workstation,12.5,,2.44,229168,Intel Pentium,512GB SSD,Nvidia GeForce GTX 1050,Linux
+Razer,2 in 1 Convertible,15.6,16.0,4.7,104876,AMD A9,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Linux
+Razer,Ultrabook,17.3,16.0,1.11,39976,Intel Core i5,1TB HDD,AMD Radeon R5,macOS
+Toshiba,Gaming,15.6,16.0,3.1,139984,AMD E-Series,2TB HDD,Nvidia GeForce GTX 1050,macOS
+Dell,Ultrabook,11.6,8.0,1.21,173698,Intel Core i5,1TB HDD,Nvidia GeForce GTX 1050,No OS
