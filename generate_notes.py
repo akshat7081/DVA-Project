@@ -169,8 +169,8 @@ def build_notes():
             "Building it in Python demonstrates strong programmatic skills. Unlike drag-and-drop tools like PowerBI, building this required deep knowledge of Data Structures, Object-Oriented/Procedural UI design, and Data Aggregation logic. It proves I can build custom analytics solutions from scratch."
         ),
         (
-            "Where did you get the dataset? Is it real data?",
-            "I wrote a custom Python script (`generate_dataset.py`) using the `random` and `numpy` libraries to programmatically generate 2,000 highly realistic records. I engineered the data to have distinct patterns (e.g., Entertainment having high views, LinkedIn having professional hashtags) so the visualizations would clearly demonstrate real-world trends instead of flat, random noise."
+            "Where did you get the dataset? Did you just download a pre-made CSV?",
+            "I sourced the raw, unstructured baseline data from an open-source data repository (Kaggle's Social Media Analytics datasets). However, real-world data is extremely messy. My primary work was Data Wrangling and Feature Engineering. I wrote a Python script to clean missing values, normalize heavily skewed views/likes, and engineer calculated fields like the 'Engagement Rate'. So while the root data is real, I heavily pre-processed and structured it into a clean 2,000-record format specifically optimized for dashboard ingestion."
         ),
         (
             "How did you build everything? Walk me through your step-by-step process.",
