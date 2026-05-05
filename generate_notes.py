@@ -167,6 +167,14 @@ def build_notes():
         (
             "Why did you build your own dashboard instead of using PowerBI or Tableau?",
             "Building it in Python demonstrates strong programmatic skills. Unlike drag-and-drop tools like PowerBI, building this required deep knowledge of Data Structures, Object-Oriented/Procedural UI design, and Data Aggregation logic. It proves I can build custom analytics solutions from scratch."
+        ),
+        (
+            "Where did you get the dataset? Is it real data?",
+            "I wrote a custom Python script (`generate_dataset.py`) using the `random` and `numpy` libraries to programmatically generate 2,000 highly realistic records. I engineered the data to have distinct patterns (e.g., Entertainment having high views, LinkedIn having professional hashtags) so the visualizations would clearly demonstrate real-world trends instead of flat, random noise."
+        ),
+        (
+            "How did you build everything? Walk me through your step-by-step process.",
+            "1. **Ideation & Data Synthesis:** I first determined the KPIs needed (Views, Likes, Engagement). Then I wrote the Python dataset generator to create a 2,000-row CSV.\n2. **UI Foundation:** I set up the Tkinter main window, applied a custom 'Midnight Purple' color theme, and created a Notebook widget for the 5 separate tabs.\n3. **Data Aggregation:** I built a `load_data()` function with Pandas to ingest the CSV and dynamically calculate platform/category groupings.\n4. **Visualization Engine:** I used Matplotlib's `GridSpec` to draw multiple charts per page, injected the Pandas data into the charts, and embedded them into Tkinter using `FigureCanvasTkAgg`.\n5. **Refinement:** I added formatting (e.g., converting 1,500,000 to '1.5M') and scrollable data tables to make the UI look like a premium, enterprise-level dashboard."
         )
     ]
     
